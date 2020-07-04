@@ -1,5 +1,5 @@
 # applied-ml
-Curated papers, articles, and blogs sharing how **machine learning is applied in production**. 
+Curated papers, articles, and blogs sharing how **data science & machine learning is applied in production**. 
 
 Have a favourite piece you're not seeing here? Want to contribute? Please make a [pull request](https://github.com/eugeneyan/applied-ml/pulls).
 
@@ -26,6 +26,7 @@ Have a favourite piece you're not seeing here? Want to contribute? Please make a
 - [An Approach to Data Quality for Netflix Personalization Systems](https://databricks.com/session_na20/an-approach-to-data-quality-for-netflix-personalization-systems) `Netflix`
 
 ## Data Engineering
+- [Zipline: Airbnb’s Machine Learning Data Management Platform](https://databricks.com/session/zipline-airbnbs-machine-learning-data-management-platform) `Airbnb`
 - [Sputnik: Airbnb’s Apache Spark Framework for Data Engineering](https://databricks.com/session_na20/sputnik-airbnbs-apache-spark-framework-for-data-engineering) `Airbnb`
 - [Feast: Bridging ML Models and Data](https://blog.gojekengineering.com/feast-bridging-ml-models-and-data-efd06b7d1644) `Gojek`
 
