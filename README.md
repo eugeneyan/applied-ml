@@ -1,7 +1,7 @@
 # applied-ml
 Curated papers, articles, and blogs sharing how **machine learning is applied in production**. 
 
-Have a favourite piece you're not seeing here? Want to contribute? Please make a [pull request](https://github.com/eugeneyan/ml-prod/pulls).
+Have a favourite piece you're not seeing here? Want to contribute? Please make a [pull request](https://github.com/eugeneyan/applied-ml/pulls).
 
 **Table of Contents**
 
