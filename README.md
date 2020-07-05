@@ -9,7 +9,6 @@ New to [Markdown](https://www.markdownguide.org/cheat-sheet/)? Here's how it wou
 - [Title of paper, article, blog](url) `organization`
 ```
 
-
 **Table of Contents**
 
 - [Data Quality](#data-quality)
@@ -75,7 +74,7 @@ Product Recommendations at Scale](https://arxiv.org/abs/1606.07154) `Yahoo`
 - [Using machine learning to predict what file you need next (Part 2)](https://dropbox.tech/machine-learning/using-machine-learning-to-predict-what-file-you-need-next-part-2) `Dropbox`
 - [A closer look at the AI behind course recommendations on LinkedIn Learning (Part 1)](https://engineering.linkedin.com/blog/2020/course-recommendations-ai-part-one) `LinkedIn`
 - [A closer look at the AI behind course recommendations on LinkedIn Learning (Part 2)](https://engineering.linkedin.com/blog/2020/course-recommendations-ai-part-two) `LinkedIn`
-- [A recommender system in 30 lines of Clojure](https://findka.com/blog/rec-sys-in-30-lines/) `Findka.com`
+- [A recommender system in 30 lines of Clojure](https://findka.com/blog/rec-sys-in-30-lines/) [`Findka`](https://findka.com)
 
 ## Search/Ranking
 - [Amazon Search: The Joy of Ranking Products](https://www.amazon.science/publications/amazon-search-the-joy-of-ranking-products) `Amazon`
@@ -162,4 +161,4 @@ Product Recommendations at Scale](https://arxiv.org/abs/1606.07154) `Yahoo`
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) `Google`
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) `Google`
 - [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf) `Amazon`
-- [150 successful Machine Learning models: 6 lessons learned at Booking.com](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com) `Booking.com`
+- [150 successful Machine Learning models: 6 lessons learned at Booking.com](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com) `Booking`
