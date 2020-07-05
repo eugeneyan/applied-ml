@@ -16,6 +16,7 @@ Have a favourite piece you're not seeing here? Want to contribute? Make a [pull 
 - [Computer Vision](#computer-vision)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Anomaly Detection](#anomaly-detection)
+- [Graph](#graph)
 - [Optimization](#optimization)
 - [Information Extraction](#information-extraction)
 - [Validation and A/B Testing](#validation-and-ab-testing)
@@ -126,6 +127,9 @@ Have a favourite piece you're not seeing here? Want to contribute? Make a [pull 
 - [Detecting Performance Anomalies in External Firmware Deployments](https://netflixtechblog.com/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46) `Netflix`
 - [Detecting and preventing abuse on LinkedIn using isolation forests](https://engineering.linkedin.com/blog/2019/isolation-forest) `LinkedIn`
 - [Uncovering Insurance Fraud Conspiracy with Network Learning](https://arxiv.org/abs/2002.12789) `Ant Financial`
+
+## Graph
+- [Retail Graph — Walmart’s Product Knowledge Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc) `Walmart
 
 ## Optimization
 - [How Trip Inferences and Machine Learning Optimize Delivery Times on Uber Eats](https://eng.uber.com/uber-eats-trip-optimization/) `Uber`
