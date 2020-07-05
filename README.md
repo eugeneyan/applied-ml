@@ -59,7 +59,8 @@ New to [Markdown](https://www.markdownguide.org/cheat-sheet/)? Here's how it wou
 - [Session-based Recommendations with Recurrent Neural Networks](https://arxiv.org/abs/1511.06939) `Telefonica`
 - [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) `YouTube`
 - [Personalized Recommendations for Experiences Using Deep Learning](https://www.tripadvisor.com/engineering/personalized-recommendations-for-experiences-using-deep-learning/) `TripAdvisor`
-- [E-commerce in Your Inbox:Product Recommendations at Scale](https://arxiv.org/abs/1606.07154) `Yahoo`
+- [E-commerce in Your Inbox: Product Recommendations at Scale](https://arxiv.org/abs/1606.07154) `Yahoo`
+Product Recommendations at Scale](https://arxiv.org/abs/1606.07154) `Yahoo`
 - [Powered by AI: Instagram’s Explore recommender system](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/) `Facebook`
 - [Artwork Personalization at Netflix](https://netflixtechblog.com/artwork-personalization-c589f074ad76) `Netflix`
 - [To Be Continued: Helping you find shows to continue watching on Netflix](https://netflixtechblog.com/to-be-continued-helping-you-find-shows-to-continue-watching-on-7c0d8ee4dab6) `Netflix`
@@ -74,6 +75,7 @@ New to [Markdown](https://www.markdownguide.org/cheat-sheet/)? Here's how it wou
 - [Using machine learning to predict what file you need next (Part 2)](https://dropbox.tech/machine-learning/using-machine-learning-to-predict-what-file-you-need-next-part-2) `Dropbox`
 - [A closer look at the AI behind course recommendations on LinkedIn Learning (Part 1)](https://engineering.linkedin.com/blog/2020/course-recommendations-ai-part-one) `LinkedIn`
 - [A closer look at the AI behind course recommendations on LinkedIn Learning (Part 2)](https://engineering.linkedin.com/blog/2020/course-recommendations-ai-part-two) `LinkedIn`
+- [A recommender system in 30 lines of Clojure](https://findka.com/blog/rec-sys-in-30-lines/) `Findka.com`
 
 ## Search/Ranking
 - [Amazon Search: The Joy of Ranking Products](https://www.amazon.science/publications/amazon-search-the-joy-of-ranking-products) `Amazon`
@@ -161,4 +163,3 @@ New to [Markdown](https://www.markdownguide.org/cheat-sheet/)? Here's how it wou
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) `Google`
 - [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf) `Amazon`
 - [150 successful Machine Learning models: 6 lessons learned at Booking.com](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com) `Booking.com`
-
