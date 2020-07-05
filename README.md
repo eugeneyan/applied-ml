@@ -1,7 +1,14 @@
 # applied-ml
-Curated papers, articles, and blogs sharing how **data science & machine learning is applied in production**. ⚙️
+Curated papers, articles, and blogs sharing **how data science & machine learning is applied in production**. ⚙️
 
 Have a favourite piece you're not seeing here? Want to contribute? Make a [pull request](https://github.com/eugeneyan/applied-ml/pulls)! 😄
+
+New to [Markdown](https://www.markdownguide.org/cheat-sheet/)? Here's how it would look like:
+
+```
+- [Title of paper, article, blog](url) `organization`
+```
+
 
 **Table of Contents**
 
