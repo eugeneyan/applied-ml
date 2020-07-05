@@ -43,7 +43,6 @@ Have a favourite piece you're not seeing here? Want to contribute? Please make a
 - [Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d) `Airbnb`
 - [Modeling conversion rates and saving millions of dollars using Kaplan-Meier and gamma distributions](https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/) `Better`
 - [Using machine learning to predict the value of ad requests](https://blog.twitter.com/engineering/en_us/topics/insights/2020/using-machine-learning-to-predict-the-value-of-ad-requests.html) `Twitter`
-- 
 
 ## Recommendation
 - [Amazon.com Recommendations: Item-toItem Collaborative Filtering](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf) `Amazon`
@@ -113,7 +112,6 @@ Have a favourite piece you're not seeing here? Want to contribute? Please make a
 - [How we improved computer vision metrics by more than 5% only by cleaning labelling errors](https://deepomatic.com/en/how-we-improved-computer-vision-metrics-by-more-than-5-percent-only-by-cleaning-labelling-errors/) `Deepomatic`
 - [A Neural Weather Model for Eight-Hour Precipitation Forecasting](https://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html) `Google`
 - [Converting text to images for product discovery](https://www.amazon.science/blog/converting-text-to-images-for-product-discovery) `Amazon`
-
 
 ## Reinforcement Learning
 - [Deep Reinforcement Learning for Sponsored Search Real-time Bidding](https://arxiv.org/pdf/1803.00259.pdf) `Alibaba`
