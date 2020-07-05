@@ -1,7 +1,7 @@
 # applied-ml
-Curated papers, articles, and blogs sharing how **data science & machine learning is applied in production**. 
+Curated papers, articles, and blogs sharing how **data science & machine learning is applied in production**. ⚙️
 
-Have a favourite piece you're not seeing here? Want to contribute? Please make a [pull request](https://github.com/eugeneyan/applied-ml/pulls).
+Have a favourite piece you're not seeing here? Want to contribute? Make a [pull request](https://github.com/eugeneyan/applied-ml/pulls)! 😄
 
 **Table of Contents**
 
@@ -141,7 +141,7 @@ Have a favourite piece you're not seeing here? Want to contribute? Please make a
 - [Enabling 10x More Experiments with Traveloka Experiment Platform](https://medium.com/traveloka-engineering/enabling-10x-more-experiments-with-traveloka-experiment-platform-8cea13e952c) `Traveloka`
 
 ## Practices
-- [Practical Recommendations for Gradient-Based Training of Deep Architectures] (https://arxiv.org/abs/1206.5533) `Yoshua Bengio`
+- [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533) `Yoshua Bengio`
 - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/) `Google`
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) `Google`
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) `Google`
