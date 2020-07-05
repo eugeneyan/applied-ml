@@ -83,7 +83,7 @@ Have a favourite piece you're not seeing here? Want to contribute? Please make a
 ## Embeddings
 - [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://arxiv.org/abs/1803.02349)`Alibaba`
 - [Embeddings@Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/embeddingsattwitter.html) `Twitter` 
-- [Listing Embeddings in Search Ranking](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e) ([**Paper**](Real-time Personalization using Embeddings for SearchRanking at Airbnb)) `Airbnb`
+- [Listing Embeddings in Search Ranking](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e) ([**Paper**](https://www.kdd.org/kdd2018/accepted-papers/view/real-time-personalization-using-embeddings-for-search-ranking-at-airbnb)) `Airbnb`
 
 ## Natural Language Processing
 - [Abusive Language Detection in Online User Content](http://www.yichang-cs.com/yahoo/WWW16_Abusivedetection.pdf) `Yahoo`
@@ -132,7 +132,7 @@ Have a favourite piece you're not seeing here? Want to contribute? Please make a
 - [Information Extraction from Receipts with Graph Convolutional Networks](https://nanonets.com/blog/information-extraction-graph-convolutional-networks/) `Nanonets`
 
 ## Validation and A/B Testing
-- [The reusable holdout: Preserving validity in adaptive data analysis] (https://ai.googleblog.com/2015/08/the-reusable-holdout-preserving.html) `Google`
+- [The reusable holdout: Preserving validity in adaptive data analysis](https://ai.googleblog.com/2015/08/the-reusable-holdout-preserving.html) `Google`
 - [A/B Testing with Hierarchical Models in Python](https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/) `Domino`
 - [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) `LinkedIn`
 - [Building inclusive products through A/B testing](https://engineering.linkedin.com/blog/2020/building-inclusive-products-through-a-b-testing) `LinkedIn`
