@@ -1,13 +1,16 @@
 # applied-ml
 Curated papers, articles, and blogs sharing **how data science & machine learning is applied in production**. ⚙️
 
-Have a favourite piece you're not seeing here? Want to contribute? Make a [pull request](https://github.com/eugeneyan/applied-ml/pulls)! 😄
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
-New to [Markdown](https://www.markdownguide.org/cheat-sheet/)? Here's how it would look like:
+Have a new ML project (work or personal) and need a _starting_ point? These resources on **ML applied in the real world** share:
 
-```
-- [Title of paper, article, blog](url) `organization`
-```
+- **How** the problem is framed 🔎(e.g., personalization as recsys vs. search vs. sequences)
+- **What** machine learning techniques worked ✅ (and sometimes, what didn't ❌)
+- **Why** it works, the science behind it with research, literature, and references 📂
+- **What** real-word results were achieved (so you can better assess ROI 💰⏰📈)
+  
+
 
 **Table of Contents**
 
