@@ -8,7 +8,7 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 - **How** the problem is framed 🔎(e.g., personalization as recsys vs. search vs. sequences)
 - **What** machine learning techniques worked ✅ (and sometimes, what didn't ❌)
 - **Why** it works, the science behind it with research, literature, and references 📂
-- **What** real-word results were achieved (so you can better assess ROI 💰⏰📈)
+- **What** real-world results were achieved (so you can better assess ROI ⏰💰📈)
   
 
 
