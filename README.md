@@ -80,6 +80,7 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 - [A Closer Look at the AI Behind Course Recommendations on LinkedIn Learning (Part 1)](https://engineering.linkedin.com/blog/2020/course-recommendations-ai-part-one) `LinkedIn`
 - [A Closer Look at the AI Behind Course Recommendations on LinkedIn Learning (Part 2)](https://engineering.linkedin.com/blog/2020/course-recommendations-ai-part-two) `LinkedIn`
 - [A recommender system in 30 lines of Clojure](https://findka.com/blog/rec-sys-in-30-lines/) [`Findka`](https://findka.com)
+- [https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you) `ByteDance`
 
 ## Search/Ranking
 - [Amazon Search: The Joy of Ranking Products](https://www.amazon.science/publications/amazon-search-the-joy-of-ranking-products) `Amazon`
