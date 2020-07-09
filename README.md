@@ -42,6 +42,7 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 ## Classification
 - [High-Precision Phrase-Based Document Classification on a Modern Scale](https://engineering.linkedin.com/research/2011/high-precision-phrase-based-document-classification-on-a-modern-scale) `LinkedIn`
 - [Chimera: Large-Scale Classification using Machine Learning, Rules, and Crowdsourcing](http://pages.cs.wisc.edu/~anhai/papers/chimera-vldb14.pdf) `WalmartLabs`
+- [How 20th Century Fox uses ML to predict a movie audience](https://cloud.google.com/blog/products/ai-machine-learning/how-20th-century-fox-uses-ml-to-predict-a-movie-audience) `20th Century Fox`
 - [Large-scale Item Categorization for e-Commerce](https://dl.acm.org/doi/10.1145/2396761.2396838) `DianPing`, `eBay`
 - [Categorizing Products at Scale](https://engineering.shopify.com/blogs/engineering/categorizing-products-at-scale) `Shopify`
 - [Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/abs/1511.03677) `Google`
