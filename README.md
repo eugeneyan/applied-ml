@@ -181,3 +181,5 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 - [Machine Learning in production: the Booking.com approach](https://booking.ai/https-booking-ai-machine-learning-production-3ee8fe943c70) `Booking`
 - [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com) `Booking`
 - [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/) `Stitch Fix`
+
+[![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)](http://hits.dwyl.com/eugeneyan/applied-ml)
