@@ -1,6 +1,8 @@
 # applied-ml
 Curated papers, articles, and blogs sharing **how data science & machine learning is applied in production**. ⚙️
 
+Some people collect stamps. _I collect these._ 😅
+
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
 Have a new ML project (work or personal) and need a _starting_ point? These resources on **ML applied in the real world** share:
