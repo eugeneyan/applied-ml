@@ -30,6 +30,7 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 - [Information Extraction](#information-extraction)
 - [Validation and A/B Testing](#validation-and-ab-testing)
 - [Practices](#practices)
+- [Failures](#failures)
 
 ## Data Quality
 - [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/) `Uber`
@@ -40,6 +41,8 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 - [Sputnik: Airbnb’s Apache Spark Framework for Data Engineering](https://databricks.com/session_na20/sputnik-airbnbs-apache-spark-framework-for-data-engineering) `Airbnb`
 - [Feast: Bridging ML Models and Data](https://blog.gojekengineering.com/feast-bridging-ml-models-and-data-efd06b7d1644) `Gojek`
 - [Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234) `Lyft`
+- [Making Netflix’s Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032) `Netflix`
+- [Shopify's Data Science & Engineering Foundations](https://engineering.shopify.com/blogs/engineering/shopifys-data-science-engineering-foundations) `Shopify`
 
 ## Classification
 - [High-Precision Phrase-Based Document Classification on a Modern Scale](https://engineering.linkedin.com/research/2011/high-precision-phrase-based-document-classification-on-a-modern-scale) `LinkedIn`
@@ -144,6 +147,7 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 - [Dynamic Pricing on E-commerce Platform with Deep Reinforcement Learning](https://arxiv.org/abs/1912.02572) `Alibaba`
 - [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising](https://arxiv.org/abs/1802.08365) `Alibaba`
 - [Productionizing Deep Reinforcement Learning with Spark and MLflow](https://databricks.com/session_na20/productionizing-deep-reinforcement-learning-with-spark-and-mlflow) `Zynga`
+- [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/) `Denny Britz`
 
 ## Anomaly Detection
 - [Detecting Performance Anomalies in External Firmware Deployments](https://netflixtechblog.com/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46) `Netflix`
@@ -182,5 +186,9 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 - [Machine Learning in production: the Booking.com approach](https://booking.ai/https-booking-ai-machine-learning-production-3ee8fe943c70) `Booking`
 - [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com) `Booking`
 - [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/) `Stitch Fix`
+
+## Failures
+- [160k+ high school students will only graduate if a statistical model allows them to](http://positivelysemidefinite.com/2020/06/160k-students.html) `International Baccalaureate`
+
 
 [![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)](http://hits.dwyl.com/eugeneyan/applied-ml)
