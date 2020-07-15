@@ -28,6 +28,7 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 - [Graph](#graph)
 - [Optimization](#optimization)
 - [Information Extraction](#information-extraction)
+- [Weak Supervision](#weak-supervision)
 - [Validation and A/B Testing](#validation-and-ab-testing)
 - [Practices](#practices)
 - [Failures](#failures)
@@ -52,7 +53,7 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 - [Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/abs/1511.03677) `Google`
 - [Discovering and Classifying In-app Message Intent at Airbnb](https://medium.com/airbnb-engineering/discovering-and-classifying-in-app-message-intent-at-airbnb-6a55f5400a0c) `Airbnb`
 - [How We Built the Good First Issues Feature](https://github.blog/2020-01-22-how-we-built-good-first-issues/) `GitHub`
-- [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/) `Mozilla`
+- [Testing Firefox More Efficiently with Machine Learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/) `Mozilla`
 
 ## Regression
 - [Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d) `Airbnb`
@@ -166,6 +167,12 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 - [Unsupervised Extraction of Attributes and Their Values from Product Description](https://www.aclweb.org/anthology/I13-1190/) `Rakuten`
 - [Information Extraction from Receipts with Graph Convolutional Networks](https://nanonets.com/blog/information-extraction-graph-convolutional-networks/) `Nanonets`
 - [Using Machine Learning to Index Text from Billions of Images](https://dropbox.tech/machine-learning/using-machine-learning-to-index-text-from-billions-of-images) `Dropbox`
+
+## Weak Supervision
+- [Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale](https://dl.acm.org/doi/abs/10.1145/3299869.3314036) `Google`
+- [Osprey: Weak Supervision of Imbalanced Extraction Problems without Code](https://dl.acm.org/doi/abs/10.1145/3329486.3329492) `Intel`
+- [Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://arxiv.org/pdf/1909.05372.pdf) `Apple`
+- [Bootstrapping Conversational Agents with Weak Supervision](https://www.aaai.org/ojs/index.php/AAAI/article/view/5011) `IBM`
 
 ## Validation and A/B Testing
 - [The Reusable Holdout: Preserving Validity in Adaptive Data Analysis](https://ai.googleblog.com/2015/08/the-reusable-holdout-preserving.html) `Google`
