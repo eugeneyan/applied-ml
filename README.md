@@ -1,5 +1,5 @@
 # applied-ml
-Curated papers, articles, and blogs sharing **how data science & machine learning is applied in production**. ⚙️
+Curated papers, articles, and blogs on **data science & machine learning in production**. ⚙️
 
 Some people collect stamps. _I collect these._ 😅
 
@@ -126,6 +126,7 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 - [Goal-Oriented End-to-End Conversational Models with Profile Features in a Real-World Setting](https://assets.amazon.science/47/03/e0d14dc34d3eb6e0d4ec282067bd/goal-oriented-end-to-end-chatbots-with-profile-features-in-a-real-world-setting.pdf) `Amazon`
 - [How Gojek Uses NLP to Name Pickup Locations at Scale](https://blog.gojekengineering.com/how-gojek-uses-nlp-to-name-pickup-locations-at-scale-ffdb249d1433) `GoJek`
 - [Give Me Jeans not Shoes: How BERT Helps Us Deliver What Clients Want](https://multithreaded.stitchfix.com/blog/2019/07/15/give-me-jeans/) `Stitch Fix`
+- [The State-of-the-art Open-Domain Chatbot in Chinese and English](http://research.baidu.com/Blog/index-view?id=142) `Baidu`
 
 ## Sequence Modelling
 - [Recommending Complementary Products in E-Commerce Push Notifications with Mixture Models](https://arxiv.org/abs/1707.08113) `Alibaba`
