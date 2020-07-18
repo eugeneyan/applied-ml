@@ -213,7 +213,7 @@ Have a new ML project and need a _starting_ point? These resources on **ML in th
 
 ## Failures
 1. [160k+ High School Students Will Graduate Only If a Model Allows Them to](http://positivelysemidefinite.com/2020/06/160k-students.html) `International Baccalaureate`
-2. [](https://www.wired.com/story/when-it-comes-to-gorillas-google-photos-remains-blind/) `Google`
+2. [When It Comes to Gorillas, Google Photos Remains Blind](https://www.wired.com/story/when-it-comes-to-gorillas-google-photos-remains-blind/) `Google`
 
 
 [![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)](http://hits.dwyl.com/eugeneyan/applied-ml)
