@@ -3,9 +3,9 @@ Curated papers, articles, and blogs on **data science & machine learning in prod
 
 Some people collect stamps. _I collect these._ 😅
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+[![made With Love](https://img.shields.io/badge/made%20with-love-red.svg)](./README.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
-Have a new ML project (work or personal) and need a _starting_ point? These resources on **ML applied in the real world** share:
+Have a new ML project and need a _starting_ point? These resources on **ML in the real world** share:
 
 - **How** the problem is framed 🔎(e.g., personalization as recsys vs. search vs. sequences)
 - **What** machine learning techniques worked ✅ (and sometimes, what didn't ❌)
@@ -213,6 +213,7 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 
 ## Failures
 1. [160k+ High School Students Will Graduate Only If a Model Allows Them to](http://positivelysemidefinite.com/2020/06/160k-students.html) `International Baccalaureate`
+2. [](https://www.wired.com/story/when-it-comes-to-gorillas-google-photos-remains-blind/) `Google`
 
 
 [![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)](http://hits.dwyl.com/eugeneyan/applied-ml)
