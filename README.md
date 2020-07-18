@@ -46,6 +46,7 @@ Have a new ML project (work or personal) and need a _starting_ point? These reso
 4. [Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234) `Lyft`
 5. [Making Netflix’s Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032) `Netflix`
 6. [Shopify's Data Science & Engineering Foundations](https://engineering.shopify.com/blogs/engineering/shopifys-data-science-engineering-foundations) `Shopify`
+7. [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://netflixtechblog.com/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520) `Netflix`
 
 ## Classification
 1. [High-Precision Phrase-Based Document Classification on a Modern Scale](https://engineering.linkedin.com/research/2011/high-precision-phrase-based-document-classification-on-a-modern-scale) `LinkedIn`
