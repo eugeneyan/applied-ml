@@ -5,7 +5,7 @@ Some people collect stamps. _I collect these._ 😅
 
 [![made With Love](https://img.shields.io/badge/made%20with-love-red.svg)](./README.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
-Have a new ML project and need a _starting_ point? These resources on **ML in the real world** share:
+Have a new ML project and need a _starting_ point? These resources on **ML applied in production** share:
 
 - **How** the problem is framed 🔎(e.g., personalization as recsys vs. search vs. sequences)
 - **What** machine learning techniques worked ✅ (and sometimes, what didn't ❌)
