@@ -60,6 +60,7 @@ Have a new ML project and need a _starting_ point? These resources on **ML appli
 7. [How We Built the Good First Issues Feature](https://github.blog/2020-01-22-how-we-built-good-first-issues/) `GitHub`
 8. [Testing Firefox More Efficiently with Machine Learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/) `Mozilla`
 9. [Prediction of Advertiser Churn for Google AdWords](https://research.google/pubs/pub36678/) `Google`
+10. [Teaching machines to triage Firefox bugs](https://hacks.mozilla.org/2019/04/teaching-machines-to-triage-firefox-bugs/) `Mozilla`
 
 ## Regression
 1. [Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d) `Airbnb`
