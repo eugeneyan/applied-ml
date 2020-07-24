@@ -1,7 +1,7 @@
 # applied-ml
 Curated papers, articles, and blogs on **data science & machine learning in production**. ⚙️
 
-[![made With Love](https://img.shields.io/badge/made%20with-love-red.svg)](./README.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+[![made With Love](https://img.shields.io/badge/curated%20with-love-red)](./README.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
 Figuring out how to implement your ML project? Learn from **how other organizations have done it**:
 
@@ -181,6 +181,7 @@ Figuring out how to implement your ML project? Learn from **how other organizati
 1. [Retail Graph — Walmart’s Product Knowledge Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc) `Walmart`
 2. [Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations](https://eng.uber.com/uber-eats-graph-learning/) `Uber`
 3. [AliGraph: A Comprehensive Graph Neural Network Platform](https://arxiv.org/abs/1902.08730) `Alibaba`
+4. [Scaling Knowledge Access and Retrieval at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-access-and-retrieval-at-airbnb-665b6ba21e95) `Airbnb`
 
 ## Optimization
 1. [How Trip Inferences and Machine Learning Optimize Delivery Times on Uber Eats](https://eng.uber.com/uber-eats-trip-optimization/) `Uber`
