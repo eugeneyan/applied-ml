@@ -14,24 +14,25 @@ Figuring out how to implement your ML project? Learn from **how other organizati
 
 1. [Data Quality](#data-quality)
 2. [Data Engineering](#data-engineering)
-3. [Classification](#classification)
-4. [Regression](#regression)
-5. [Recommendation](#recommendation)
-6. [Search & Ranking](#search--ranking)
-7. [Natural Language Processing](#natural-language-processing)
-8. [Sequence Modelling](#sequence-modelling)
-9. [Forecasting](#forecasting)
-10. [Computer Vision](#computer-vision)
-11. [Reinforcement Learning](#reinforcement-learning)
-12. [Anomaly Detection](#anomaly-detection)
-13. [Graph](#graph)
-14. [Optimization](#optimization)
-15. [Information Extraction](#information-extraction)
-16. [Weak Supervision](#weak-supervision)
-17. [Generation](#generation)
-18. [Validation and A/B Testing](#validation-and-ab-testing)
-19. [Practices](#practices)
-20. [Failures](#failures)
+3. [Data Discovery](#data-discovery)
+4. [Classification](#classification)
+5. [Regression](#regression)
+6. [Recommendation](#recommendation)
+7. [Search & Ranking](#search--ranking)
+8. [Natural Language Processing](#natural-language-processing)
+9. [Sequence Modelling](#sequence-modelling)
+10. [Forecasting](#forecasting)
+11. [Computer Vision](#computer-vision)
+12. [Reinforcement Learning](#reinforcement-learning)
+13. [Anomaly Detection](#anomaly-detection)
+14. [Graph](#graph)
+15. [Optimization](#optimization)
+16. [Information Extraction](#information-extraction)
+17. [Weak Supervision](#weak-supervision)
+18. [Generation](#generation)
+19. [Validation and A/B Testing](#validation-and-ab-testing)
+20. [Practices](#practices)
+21. [Failures](#failures)
 
 ## Data Quality
 1. [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/) `Uber`
@@ -39,16 +40,21 @@ Figuring out how to implement your ML project? Learn from **how other organizati
 3. [Automating Large-Scale Data Quality Verification](https://www.amazon.science/publications/automating-large-scale-data-quality-verification) ([Paper](https://assets.amazon.science/a6/88/ad858ee240c38c6e9dce128250c0/automating-large-scale-data-quality-verification.pdf))`Amazon`
 4. [Meet Hodor — Gojek’s Upstream Data Quality Tool](https://blog.gojekengineering.com/meet-hodor-gojeks-upstream-data-quality-tool-fb877447aad1) `Gojek`
 5. [Reliable and Scalable Data Ingestion at Airbnb](https://www.slideshare.net/HadoopSummit/reliable-and-scalable-data-ingestion-at-airbnb-63920989) `Airbnb`
+6. [Data Management Challenges in Production Machine Learning](https://research.google/pubs/pub46178/) ([Paper](https://thodrek.github.io/CS839_spring18/papers/p1723-polyzotis.pdf)) `Google`
 
 ## Data Engineering
 1. [Zipline: Airbnb’s Machine Learning Data Management Platform](https://databricks.com/session/zipline-airbnbs-machine-learning-data-management-platform) `Airbnb`
 2. [Sputnik: Airbnb’s Apache Spark Framework for Data Engineering](https://databricks.com/session_na20/sputnik-airbnbs-apache-spark-framework-for-data-engineering) `Airbnb`
 3. [Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning) ([Code](https://github.com/feast-dev/feast))`Gojek`
 4. [Feast: Bridging ML Models and Data](https://blog.gojekengineering.com/feast-bridging-ml-models-and-data-efd06b7d1644) `Gojek`
-5. [Amundsen — Lyft’s Data Discovery & Metadata Engine](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9) `Lyft`
-6. [Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234) ([Code](https://github.com/lyft/amundsen))`Lyft`
-7. [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://netflixtechblog.com/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520) `Netflix`
-8. [How We Improved Data Discovery for Data Scientists at Spotify](https://engineering.atspotify.com/2020/02/27/how-we-improved-data-discovery-for-data-scientists-at-spotify/) `Spotify`
+
+## Data Discovery
+1. [Amundsen — Lyft’s Data Discovery & Metadata Engine](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9) `Lyft`
+2. [Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234) ([Code](https://github.com/lyft/amundsen))`Lyft`
+3. [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://eng.uber.com/databook/) `Uber`
+4. [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://netflixtechblog.com/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520) `Netflix`
+5. [How We Improved Data Discovery for Data Scientists at Spotify](https://engineering.atspotify.com/2020/02/27/how-we-improved-data-discovery-for-data-scientists-at-spotify/) `Spotify`
+
 
 ## Classification
 1. [High-Precision Phrase-Based Document Classification on a Modern Scale](https://engineering.linkedin.com/research/2011/high-precision-phrase-based-document-classification-on-a-modern-scale) ([Paper](http://web.stanford.edu/~gavish/documents/phrase_based.pdf)) `LinkedIn`
