@@ -19,20 +19,21 @@ Figuring out how to implement your ML project? Learn from **how other organizati
 5. [Regression](#regression)
 6. [Recommendation](#recommendation)
 7. [Search & Ranking](#search--ranking)
-8. [Natural Language Processing](#natural-language-processing)
-9. [Sequence Modelling](#sequence-modelling)
-10. [Forecasting](#forecasting)
-11. [Computer Vision](#computer-vision)
-12. [Reinforcement Learning](#reinforcement-learning)
-13. [Anomaly Detection](#anomaly-detection)
-14. [Graph](#graph)
-15. [Optimization](#optimization)
-16. [Information Extraction](#information-extraction)
-17. [Weak Supervision](#weak-supervision)
-18. [Generation](#generation)
-19. [Validation and A/B Testing](#validation-and-ab-testing)
-20. [Practices](#practices)
-21. [Failures](#failures)
+8. [Embeddings](#embeddings)
+9. [Natural Language Processing](#natural-language-processing)
+10. [Sequence Modelling](#sequence-modelling)
+11. [Forecasting](#forecasting)
+12. [Computer Vision](#computer-vision)
+13. [Reinforcement Learning](#reinforcement-learning)
+14. [Anomaly Detection](#anomaly-detection)
+15. [Graph](#graph)
+16. [Optimization](#optimization)
+17. [Information Extraction](#information-extraction)
+18. [Weak Supervision](#weak-supervision)
+19. [Generation](#generation)
+20. [Validation and A/B Testing](#validation-and-ab-testing)
+21. [Practices](#practices)
+22. [Failures](#failures)
 
 ## Data Quality
 1. [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/) `Uber`
@@ -139,6 +140,7 @@ Figuring out how to implement your ML project? Learn from **how other organizati
 5. [Towards Deep and Representation Learning for Talent Search at LinkedIn](https://arxiv.org/abs/1809.06473) ([Paper](https://arxiv.org/pdf/1809.06473.pdf)) `LinkedIn`
 6. [Vector Representation Of Items, Customer And Cart To Build A Recommendation System](https://arxiv.org/abs/1705.06338) ([Paper](https://arxiv.org/pdf/1705.06338.pdf)) `Sears`
 7. [Machine Learning for a Better Developer Experience](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c) `Netflix`
+8. [Announcing ScaNN: Efficient Vector Similarity Search](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) ([Paper](https://arxiv.org/pdf/1908.10396.pdf)) `Google`
 
 ## Natural Language Processing
 1. [Abusive Language Detection in Online User Content](https://dl.acm.org/doi/10.1145/2872427.2883062) ([Paper](http://www.yichang-cs.com/yahoo/WWW16_Abusivedetection.pdf)) `Yahoo`
