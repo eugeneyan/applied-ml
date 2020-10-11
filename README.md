@@ -71,7 +71,7 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 7. [How We Improved Data Discovery for Data Scientists at Spotify](https://engineering.atspotify.com/2020/02/27/how-we-improved-data-discovery-for-data-scientists-at-spotify/) `Spotify`
 8. [How We’re Solving Data Discovery Challenges at Shopify](https://engineering.shopify.com/blogs/engineering/solving-data-discovery-challenges-shopify) `Shopify`
 9. [Nemo: Data discovery at Facebook](https://engineering.fb.com/data-infrastructure/nemo/) `Facebook`
-10. [Apache Atlas: Data Goverance and Metadata Framework for Hadoop] ([Code](https://github.com/apache/atlas)) `Apache`
+10. [Apache Atlas: Data Goverance and Metadata Framework for Hadoop](https://atlas.apache.org/#/) ([Code](https://github.com/apache/atlas)) `Apache`
 
 
 ## Classification
