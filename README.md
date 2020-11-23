@@ -17,30 +17,31 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 1. [Data Quality](#data-quality)
 2. [Data Engineering](#data-engineering)
 3. [Data Discovery](#data-discovery)
-4. [Classification](#classification)
-5. [Regression](#regression)
-6. [Forecasting](#forecasting)
-7. [Recommendation](#recommendation)
-8. [Search & Ranking](#search--ranking)
-9. [Embeddings](#embeddings)
-10. [Natural Language Processing](#natural-language-processing)
-11. [Sequence Modelling](#sequence-modelling)
-12. [Computer Vision](#computer-vision)
-13. [Reinforcement Learning](#reinforcement-learning)
-14. [Anomaly Detection](#anomaly-detection)
-15. [Graph](#graph)
-16. [Optimization](#optimization)
-17. [Information Extraction](#information-extraction)
-18. [Weak Supervision](#weak-supervision)
-19. [Generation](#generation)
-20. [Audio](#audio)
-21. [Validation and A/B Testing](#validation-and-ab-testing)
-22. [Model Management](#model-management)
-23. [Efficiency](#efficiency)
-24. [Ethics](#ethics)
-25. [Practices](#practices)
-26. [Team Structure](#team-structure)
-27. [Fails](#fails)
+4. [Feature Stores](#feature-stores)
+5. [Classification](#classification)
+6. [Regression](#regression)
+7. [Forecasting](#forecasting)
+8. [Recommendation](#recommendation)
+9. [Search & Ranking](#search--ranking)
+10. [Embeddings](#embeddings)
+11. [Natural Language Processing](#natural-language-processing)
+12. [Sequence Modelling](#sequence-modelling)
+13. [Computer Vision](#computer-vision)
+14. [Reinforcement Learning](#reinforcement-learning)
+15. [Anomaly Detection](#anomaly-detection)
+16. [Graph](#graph)
+17. [Optimization](#optimization)
+18. [Information Extraction](#information-extraction)
+19. [Weak Supervision](#weak-supervision)
+20. [Generation](#generation)
+21. [Audio](#audio)
+22. [Validation and A/B Testing](#validation-and-ab-testing)
+23. [Model Management](#model-management)
+24. [Efficiency](#efficiency)
+25. [Ethics](#ethics)
+26. [Practices](#practices)
+27. [Team Structure](#team-structure)
+28. [Fails](#fails)
 
 ## Data Quality
 1. [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/) `Uber`
@@ -54,11 +55,9 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 ## Data Engineering
 1. [Zipline: Airbnb’s Machine Learning Data Management Platform](https://databricks.com/session/zipline-airbnbs-machine-learning-data-management-platform) `Airbnb`
 2. [Sputnik: Airbnb’s Apache Spark Framework for Data Engineering](https://databricks.com/session_na20/sputnik-airbnbs-apache-spark-framework-for-data-engineering) `Airbnb`
-3. [Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning) ([Code](https://github.com/feast-dev/feast))`Gojek`
-4. [Feast: Bridging ML Models and Data](https://blog.gojekengineering.com/feast-bridging-ml-models-and-data-efd06b7d1644) `Gojek`
-5. [Unbundling Data Science Workflows with Metaflow and AWS Step Functions](https://netflixtechblog.com/unbundling-data-science-workflows-with-metaflow-and-aws-step-functions-d454780c6280) `Netflix`
-6. [How DoorDash is Scaling its Data Platform to Delight Customers and Meet Growing Demand](https://doordash.engineering/2020/09/25/how-doordash-is-scaling-its-data-platform/) `DoorDash`
-7. [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://eng.uber.com/money-scale-strong-data/) `Uber`
+3. [Unbundling Data Science Workflows with Metaflow and AWS Step Functions](https://netflixtechblog.com/unbundling-data-science-workflows-with-metaflow-and-aws-step-functions-d454780c6280) `Netflix`
+4. [How DoorDash is Scaling its Data Platform to Delight Customers and Meet Growing Demand](https://doordash.engineering/2020/09/25/how-doordash-is-scaling-its-data-platform/) `DoorDash`
+5. [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://eng.uber.com/money-scale-strong-data/) `Uber`
 
 ## Data Discovery
 1. [Amundsen — Lyft’s Data Discovery & Metadata Engine](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9) `Lyft`
@@ -77,6 +76,15 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 10. [Apache Atlas: Data Goverance and Metadata Framework for Hadoop](https://atlas.apache.org/#/) ([Code](https://github.com/apache/atlas)) `Apache`
 11. [Collect, Aggregate, and Visualize a Data Ecosystem's Metadata](https://marquezproject.github.io/marquez/) ([Code](https://github.com/MarquezProject/marquez)) `WeWork`
 
+
+## Feature Stores
+1. [Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning) ([Code](https://github.com/feast-dev/feast))`Gojek`
+2. [Feast: Bridging ML Models and Data](https://blog.gojekengineering.com/feast-bridging-ml-models-and-data-efd06b7d1644) `Gojek`
+3. [Building a Scalable ML Feature Store with Redis, Binary Serialization, and Compression](https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-with-redis/) `DoorDash`
+4. [Michelangelo Palette: A Feature Engineering Platform at Uber](https://www.infoq.com/presentations/michelangelo-palette-uber/) `Uber`
+5. [Distributed Time Travel for Feature Generation](https://netflixtechblog.com/distributed-time-travel-for-feature-generation-389cccdd3907) `Netflix`
+6. [The Architecture That Powers Twitter's Feature Store](https://www.youtube.com/watch?v=UNailXoiIrY) `Twitter`
+7. [Rapid Experimentation Through Standardization: Typed AI features for LinkedIn’s Feed](https://engineering.linkedin.com/blog/2020/feed-typed-ai-features) `LinkedIn`
 
 ## Classification
 1. [High-Precision Phrase-Based Document Classification on a Modern Scale](https://engineering.linkedin.com/research/2011/high-precision-phrase-based-document-classification-on-a-modern-scale) ([Paper](http://web.stanford.edu/~gavish/documents/phrase_based.pdf)) `LinkedIn`
