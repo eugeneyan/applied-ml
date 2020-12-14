@@ -86,7 +86,7 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 5. [Distributed Time Travel for Feature Generation](https://netflixtechblog.com/distributed-time-travel-for-feature-generation-389cccdd3907) `Netflix`
 6. [The Architecture That Powers Twitter's Feature Store](https://www.youtube.com/watch?v=UNailXoiIrY) `Twitter`
 7. [Rapid Experimentation Through Standardization: Typed AI features for LinkedIn’s Feed](https://engineering.linkedin.com/blog/2020/feed-typed-ai-features) `LinkedIn`
-8. [Hopsworks Feature Store: a full-stack, open source feature store for machine learning](https://www.hopsworks.ai/)  ([Code](https://github.com/logicalclocks/hopsworks))`Logical Clocks`
+8. [Hopsworks Feature Store: a full-stack, open source feature store for machine learning](https://www.hopsworks.ai/)  ([Code](https://github.com/logicalclocks/hopsworks)) `Logical Clocks`
 
 ## Classification
 1. [High-Precision Phrase-Based Document Classification on a Modern Scale](https://engineering.linkedin.com/research/2011/high-precision-phrase-based-document-classification-on-a-modern-scale) ([Paper](http://web.stanford.edu/~gavish/documents/phrase_based.pdf)) `LinkedIn`
