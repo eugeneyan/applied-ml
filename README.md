@@ -40,7 +40,7 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 24. [Efficiency](#efficiency)
 25. [Ethics](#ethics)
 26. [Infra](#infra)
-27. [Platforms](#platform)
+27. [Platforms](#platforms)
 26. [Practices](#practices)
 27. [Team Structure](#team-structure)
 28. [Fails](#fails)
