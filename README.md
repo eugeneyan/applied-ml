@@ -39,11 +39,10 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 23. [Model Management](#model-management)
 24. [Efficiency](#efficiency)
 25. [Ethics](#ethics)
-26. [Infra](#infra)
-27. [Platforms](#platforms)
-26. [Practices](#practices)
-27. [Team Structure](#team-structure)
-28. [Fails](#fails)
+26. [MLOps Platforms](#mlops-platforms)
+27. [Practices](#practices)
+28. [Team Structure](#team-structure)
+29. [Fails](#fails)
 
 ## Data Quality
 1. [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/) `Uber`
