@@ -39,7 +39,7 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 23. [Model Management](#model-management)
 24. [Efficiency](#efficiency)
 25. [Ethics](#ethics)
-26. [Infra](#infra)
+26. [MLOps Platforms](#mlops-platforms)
 27. [Platforms](#platforms)
 26. [Practices](#practices)
 27. [Team Structure](#team-structure)
