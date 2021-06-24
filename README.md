@@ -444,6 +444,7 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 5. [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) `Uber`
 6. [Building Flexible Ensemble ML Models with a Computational Graph](https://doordash.engineering/2021/01/26/computational-graph-machine-learning-ensemble-model-support/) `DoorDash`
 7. [LyftLearn: ML Model Training Infrastructure built on Kubernetes](https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb) `Lyft`
+8. [Leveling up your machine learning product by taking the leap to third-party](https://leaddev.com/technical-decision-making/leveling-your-machine-learning-product-taking-leap-third-party?utm_source=sharebar&utm_medium=linkedin&utm_campaign=sharebar) `Etsy`
 
 
 ## Practices
