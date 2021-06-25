@@ -80,6 +80,7 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 9. [Nemo: Data discovery at Facebook](https://engineering.fb.com/data-infrastructure/nemo/) `Facebook`
 10. [Apache Atlas: Data Goverance and Metadata Framework for Hadoop](https://atlas.apache.org/#/) ([Code](https://github.com/apache/atlas)) `Apache`
 11. [Collect, Aggregate, and Visualize a Data Ecosystem's Metadata](https://marquezproject.github.io/marquez/) ([Code](https://github.com/MarquezProject/marquez)) `WeWork`
+12. [Exploring Data at Netflix](https://netflixtechblog.com/exploring-data-netflix-9d87e20072e3) ([Code](https://github.com/Netflix/nf-data-explorer)) `Netflix`
 
 
 ## Feature Stores
