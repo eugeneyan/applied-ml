@@ -466,6 +466,7 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 5. [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) `Uber`
 6. [Building Flexible Ensemble ML Models with a Computational Graph](https://doordash.engineering/2021/01/26/computational-graph-machine-learning-ensemble-model-support/) `DoorDash`
 7. [LyftLearn: ML Model Training Infrastructure built on Kubernetes](https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb) `Lyft`
+8. ["You Don't Need a Bigger Boat": A Full Data Pipeline - from Data to Endpoints - Built with Open-Source Tools](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat) `Coveo` ([Paper](https://arxiv.org/abs/2107.07346)
 
 
 ## Practices
