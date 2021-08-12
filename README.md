@@ -198,7 +198,7 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 39. [Multi-task Learning for Related Products Recommendations at Pinterest](https://medium.com/pinterest-engineering/multi-task-learning-for-related-products-recommendations-at-pinterest-62684f631c12) `Pinterest`
 40. [Improving the Quality of Recommended Pins with Lightweight Ranking](https://medium.com/pinterest-engineering/improving-the-quality-of-recommended-pins-with-lightweight-ranking-8ff5477b20e3) `Pinterest`
 39. [Personalized Cuisine Filter Based on Customer Preference and Local Popularity](https://doordash.engineering/2020/01/27/personalized-cuisine-filter/) `DoorDash`
-40. [How We Built a Matchmaking Algorithm to Cross-Sell Products]https://www.gojek.io/blog/how-we-built-a-matchmaking-algorithm-to-cross-sell-GoJek
+40. [How We Built a Matchmaking Algorithm to Cross-Sell Products](https://www.gojek.io/blog/how-we-built-a-matchmaking-algorithm-to-cross-sell-GoJek)
 `Gojek`
 
 ## Search & Ranking
