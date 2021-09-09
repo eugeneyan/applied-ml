@@ -3,6 +3,10 @@ from gaussiandistribution import Gaussian
 gaussian_one = Gaussian(22, 2)
 print(gaussian_one.mean)
 
+viet nam
+
+
+
 # class fraction:
 #     def __init__(self, n, d):
 #         self.numerator, self.denominator = fraction.reduce(n, d)
