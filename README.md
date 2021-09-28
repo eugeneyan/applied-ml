@@ -41,10 +41,11 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 23. [Model Management](#model-management)
 24. [Efficiency](#efficiency)
 25. [Ethics](#ethics)
-26. [MLOps Platforms](#mlops-platforms)
-27. [Practices](#practices)
-28. [Team Structure](#team-structure)
-29. [Fails](#fails)
+26. [Infra](#infra)
+27. [MLOps Platforms](#mlops-platforms)
+28. [Practices](#practices)
+29. [Team Structure](#team-structure)
+30. [Fails](#fails)
 
 ## Data Quality
 1. [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/) `Uber`
