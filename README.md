@@ -132,7 +132,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 2. [Engineering Extreme Event Forecasting at Uber with RNN](https://eng.uber.com/neural-networks/) `Uber`
 3. [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/) `Uber` 
 4. [Introducing Orbit, An Open Source Package for Time Series Inference and Forecasting](https://eng.uber.com/orbit/) ([Paper](https://arxiv.org/abs/2004.08492), [Video](https://youtu.be/LXDpq_iwcWY), [Code](https://github.com/uber/orbit)) `Uber`
-5. [Under the Hood of Gojek’s Automated Forecasting Tool](https://www.gojek.io/blog/under-the-hood-of-gojeks-automated-forecasting-tool) `GoJek`
+5. [Under the Hood of Gojek’s Automated Forecasting Tool](https://www.gojek.io/blog/under-the-hood-of-gojeks-automated-forecasting-tool) `Gojek`
 6. [BusTr: Predicting Bus Travel Times from Real-Time Traffic](https://dl.acm.org/doi/abs/10.1145/3394486.3403376) ([Paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403376), [Video](https://crossminds.ai/video/5f3369790576dd25aef288db/)) `Google`
 7. [Retraining Machine Learning Models in the Wake of COVID-19](https://doordash.engineering/2020/09/15/retraining-ml-models-covid-19/) `DoorDash`
 8. [Managing Supply and Demand Balance Through Machine Learning](https://doordash.engineering/2021/06/29/managing-supply-and-demand-balance-through-machine-learning/) `DoorDash`
@@ -229,7 +229,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 15. [Understanding Dwell Time to Improve LinkedIn Feed Ranking](https://engineering.linkedin.com/blog/2020/understanding-feed-dwell-time) `LinkedIn`
 12. [AI at Scale in Bing](https://blogs.bing.com/search/2020_05/AI-at-Scale-in-Bing) `Microsoft`
 13. [Query Understanding Engine in Traveloka Universal Search](https://medium.com/traveloka-engineering/query-understanding-engine-in-traveloka-universal-search-410ad3895db7) `Traveloka`
-14. [The Secret Sauce Behind Search Personalisation](https://www.gojek.io/blog/the-secret-sauce-behind-search-personalisation) `GoJek`
+14. [The Secret Sauce Behind Search Personalisation](https://www.gojek.io/blog/the-secret-sauce-behind-search-personalisation) `Gojek`
 15. [Food Discovery with Uber Eats: Building a Query Understanding Engine](https://eng.uber.com/uber-eats-query-understanding/) `Uber`
 16. [Neural Code Search: ML-based Code Search Using Natural Language Queries](https://ai.facebook.com/blog/neural-code-search-ml-based-code-search-using-natural-language-queries/) `Facebook`
 17. [Bayesian Product Ranking at Wayfair](https://tech.wayfair.com/data-science/2020/01/bayesian-product-ranking-at-wayfair) `Wayfair`
@@ -289,7 +289,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 14. [Introducing Dynabench: Rethinking the way we benchmark AI](https://ai.facebook.com/blog/dynabench-rethinking-ai-benchmarking/) `Facebook`
 14. [Dynaboard: Moving Beyond Accuracy to Holistic Model Evaluation in NLP](https://ai.facebook.com/blog/dynaboard-moving-beyond-accuracy-to-holistic-model-evaluation-in-nlp) ([Code](https://github.com/facebookresearch/dynalab?fbclid=IwAR3qcV7QK2uXm4s4M0XUoQQo4i2DEsDy0LZFKxSQCHhP-3hF6fr2-NDFWX8)) `Facebook` 
 12. [Goal-Oriented End-to-End Conversational Models with Profile Features in a Real-World Setting](https://www.amazon.science/publications/goal-oriented-end-to-end-chatbots-with-profile-features-in-a-real-world-setting) ([Paper](https://assets.amazon.science/47/03/e0d14dc34d3eb6e0d4ec282067bd/goal-oriented-end-to-end-chatbots-with-profile-features-in-a-real-world-setting.pdf)) `Amazon`
-13. [How Gojek Uses NLP to Name Pickup Locations at Scale](https://www.gojek.io/blog/nlp-cartobert) `GoJek`
+13. [How Gojek Uses NLP to Name Pickup Locations at Scale](https://www.gojek.io/blog/nlp-cartobert) `Gojek`
 14. [Give Me Jeans not Shoes: How BERT Helps Us Deliver What Clients Want](https://multithreaded.stitchfix.com/blog/2019/07/15/give-me-jeans/) `Stitch Fix`
 15. [The State-of-the-art Open-Domain Chatbot in Chinese and English](http://research.baidu.com/Blog/index-view?id=142) ([Paper](https://arxiv.org/pdf/2006.16779.pdf)) `Baidu`
 17. [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html) ([Paper](https://arxiv.org/pdf/1912.08777.pdf), [Code](https://github.com/google-research/pegasus)) `Google`
