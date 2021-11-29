@@ -346,7 +346,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 1. [Deep Reinforcement Learning for Sponsored Search Real-time Bidding](https://arxiv.org/abs/1803.00259) ([Paper](https://arxiv.org/pdf/1803.00259.pdf)) `Alibaba` `2018`
 2. [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising](https://arxiv.org/abs/1802.08365) ([Paper](https://arxiv.org/pdf/1802.08365.pdf)) `Alibaba` `2018`
 3. [Reinforcement Learning for On-Demand Logistics](https://doordash.engineering/2018/09/10/reinforcement-learning-for-on-demand-logistics/) `DoorDash` `2018`
-4. [Reinforcement Learning to Rank in E-Commerce Search Engine](https://arxiv.org/abs/1803.00710) ([Paper](https://arxiv.org/pdf/1803.00710.pdf)) `Alibaba` `2018`5. [Dynamic Pricing on E-commerce Platform with Deep Reinforcement Learning](https://arxiv.org/abs/1912.02572) ([Paper](https://arxiv.org/pdf/1912.02572.pdf)) `Alibaba` `2019`
+4. [Reinforcement Learning to Rank in E-Commerce Search Engine](https://arxiv.org/abs/1803.00710) ([Paper](https://arxiv.org/pdf/1803.00710.pdf)) `Alibaba` `2018`
+5. [Dynamic Pricing on E-commerce Platform with Deep Reinforcement Learning](https://arxiv.org/abs/1912.02572) ([Paper](https://arxiv.org/pdf/1912.02572.pdf)) `Alibaba` `2019`
 6. [Productionizing Deep Reinforcement Learning with Spark and MLflow](https://databricks.com/session_na20/productionizing-deep-reinforcement-learning-with-spark-and-mlflow) `Zynga` `2020`
 7. [Deep Reinforcement Learning in Production Part1](https://towardsdatascience.com/deep-reinforcement-learning-in-production-7e1e63471e2) [Part 2](https://towardsdatascience.com/deep-reinforcement-learning-in-production-part-2-personalizing-user-notifications-812a68ce2355) `Zynga` `2020`
 8. [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/) `Denny Britz` `2020`
@@ -371,7 +372,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 ## Graph
 1. [Building The LinkedIn Knowledge Graph](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph) `LinkedIn` `2016`
 2. [Scaling Knowledge Access and Retrieval at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-access-and-retrieval-at-airbnb-665b6ba21e95) `Airbnb` `2018`
-3. [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973) ([Paper](https://arxiv.org/pdf/1806.01973.pdf))`Pinterest` `2018`4. [Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations](https://eng.uber.com/uber-eats-graph-learning/) `Uber` `2019`
+3. [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973) ([Paper](https://arxiv.org/pdf/1806.01973.pdf))`Pinterest` `2018`
+4. [Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations](https://eng.uber.com/uber-eats-graph-learning/) `Uber` `2019`
 5. [AliGraph: A Comprehensive Graph Neural Network Platform](https://arxiv.org/abs/1902.08730) ([Paper](https://arxiv.org/pdf/1902.08730.pdf)) `Alibaba` `2019`
 6. [Contextualizing Airbnb by Building Knowledge Graph](https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a) `Airbnb` `2019`
 7. [Retail Graph — Walmart’s Product Knowledge Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc) `Walmart` `2020`
@@ -484,7 +486,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 5. [Open-Sourcing Metaflow - a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9) `Netflix` `2019`
 6. [Managing ML Models @ Scale - Intuit’s ML Platform](https://www.usenix.org/conference/opml20/presentation/wenzel) `Intuit` `2020`
 7. [Real-time Machine Learning Inference Platform at Zomato](https://www.youtube.com/watch?v=0-3ES1vzW14) `Zomato` `2020`
-8. [Introducing Flyte: Cloud Native Machine Learning and Data Processing Platform](https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59) `Lyft` `2020`9. [Building Flexible Ensemble ML Models with a Computational Graph](https://doordash.engineering/2021/01/26/computational-graph-machine-learning-ensemble-model-support/) `DoorDash` `2021`
+8. [Introducing Flyte: Cloud Native Machine Learning and Data Processing Platform](https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59) `Lyft` `2020`
+9. [Building Flexible Ensemble ML Models with a Computational Graph](https://doordash.engineering/2021/01/26/computational-graph-machine-learning-ensemble-model-support/) `DoorDash` `2021`
 10. [LyftLearn: ML Model Training Infrastructure built on Kubernetes](https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb) `Lyft` `2021`
 11. ["You Don't Need a Bigger Boat": A Full Data Pipeline Built with Open-Source Tools](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat) ([Paper](https://arxiv.org/abs/2107.07346)) `Coveo` `2021`
 12. [MLOps at GreenSteam: Shipping Machine Learning](https://neptune.ai/blog/mlops-at-greensteam-shipping-machine-learning-case-study) `GreenSteam` `2021`
@@ -510,7 +513,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 
 ## Team structure
 1. [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/) `Stitch Fix` `2016`
-2. [Building The Analytics Team At Wish](https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16) `Wish` `2018`3. [Beware the Data Science Pin Factory: The Power of the Full-Stack Data Science Generalist](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) `Stitch Fix` `2019`
+2. [Building The Analytics Team At Wish](https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16) `Wish` `2018`
+3. [Beware the Data Science Pin Factory: The Power of the Full-Stack Data Science Generalist](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) `Stitch Fix` `2019`
 4. [Cultivating Algorithms: How We Grow Data Science at Stitch Fix](https://cultivating-algos.stitchfix.com) `Stitch Fix`
 5. [Analytics at Netflix: Who We Are and What We Do](https://netflixtechblog.com/analytics-at-netflix-who-we-are-and-what-we-do-7d9c08fe6965) `Netflix` `2020`
 6. [Building a Data Team at a Mid-stage Startup: A Short Story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) `Erikbern` `2021`
