@@ -497,6 +497,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 11. ["You Don't Need a Bigger Boat": A Full Data Pipeline Built with Open-Source Tools](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat) ([Paper](https://arxiv.org/abs/2107.07346)) `Coveo` `2021`
 12. [MLOps at GreenSteam: Shipping Machine Learning](https://neptune.ai/blog/mlops-at-greensteam-shipping-machine-learning-case-study) `GreenSteam` `2021`
 13. [Evolving Reddit’s ML Model Deployment and Serving Architecture](https://www.reddit.com/r/RedditEng/comments/q14tsw/evolving_reddits_ml_model_deployment_and_serving/) `Reddit` `2021`
+14. [DARWIN: Data Science and Artificial Intelligence Workbench at LinkedIn](https://engineering.linkedin.com/blog/2022/darwin--data-science-and-artificial-intelligence-workbench-at-li) `LinkedIn` `2022`
 
 ## Practices
 1. [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533) ([Paper](https://arxiv.org/pdf/1206.5533.pdf)) `Yoshua Bengio` `2012`
