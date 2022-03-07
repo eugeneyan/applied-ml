@@ -142,6 +142,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 8. [Introducing Orbit, An Open Source Package for Time Series Inference and Forecasting](https://eng.uber.com/orbit/) ([Paper](https://arxiv.org/abs/2004.08492), [Video](https://youtu.be/LXDpq_iwcWY), [Code](https://github.com/uber/orbit)) `Uber` `2021`
 9. [Managing Supply and Demand Balance Through Machine Learning](https://doordash.engineering/2021/06/29/managing-supply-and-demand-balance-through-machine-learning/) `DoorDash` `2021`
 10. [Greykite: A flexible, intuitive, and fast forecasting library](https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library) `LinkedIn` `2021`
+11. [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) `Uber` `2022`
 
 ## Recommendation
 1. [Amazon.com Recommendations: Item-to-Item Collaborative Filtering](https://ieeexplore.ieee.org/document/1167344) ([Paper](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)) `Amazon` `2003`
@@ -208,6 +209,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 62. [Using AI to Help Health Experts Address the COVID-19 Pandemic](https://ai.facebook.com/blog/using-ai-to-help-health-experts-address-the-covid-19-pandemic/) `Facebook` `2021`
 63. [Advertiser Recommendation Systems at Pinterest](https://medium.com/pinterest-engineering/advertiser-recommendation-systems-at-pinterest-ccb255fbde20) `Pinterest` `2021`
 64. [On YouTube's Recommendation System](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/) `YouTube` `2021`
+65. [Mozrt, a Deep Learning Recommendation System Empowering Walmart Store Associates](https://medium.com/walmartglobaltech/mozrt-a-deep-learning-recommendation-system-empowering-walmart-store-associates-with-a-5d42c08d88da) `Walmart` `2021`
+65. [The Amazon Music conversational recommender is hitting the right notes](https://www.amazon.science/latest-news/how-amazon-music-uses-recommendation-system-machine-learning) `Amazon` `2022`
 
 ## Search & Ranking
 1. [Amazon Search: The Joy of Ranking Products](https://www.amazon.science/publications/amazon-search-the-joy-of-ranking-products) ([Paper](https://assets.amazon.science/89/cd/34289f1f4d25b5857d776bdf04d5/amazon-search-the-joy-of-ranking-products.pdf), [Video](https://www.youtube.com/watch?v=NLrhmn-EZ88), [Code](https://github.com/dariasor/TreeExtra)) `Amazon` `2016`
@@ -265,7 +268,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 53. [Pre-trained Language Model based Ranking in Baidu Search](https://arxiv.org/abs/2105.11108) ([Paper](https://arxiv.org/pdf/2105.11108.pdf)) `Baidu` `2021`
 54. [Stitching together spaces for query-based recommendations](https://multithreaded.stitchfix.com/blog/2021/08/13/stitching-together-spaces-for-query-based-recommendations/) `Stitch Fix` `2021`
 55. [Deep Natural Language Processing for LinkedIn Search Systems](https://arxiv.org/abs/2108.08252) ([Paper](https://arxiv.org/pdf/2108.08252.pdf)) `LinkedIn` `2021`
-56. [Siamese BERT-based Model for Web Search Relevance Ranking Evaluated on a New Czech Dataset](https://arxiv.org/abs/2112.01810) ([Paper](https://arxiv.org/pdf/2112.01810.pdf), [Code](https://github.com/seznam/DaReCzech)) `Seznam` `2021`
+56. [Siamese BERT-based Model for Web Search Relevance Ranking](https://arxiv.org/abs/2112.01810) ([Paper](https://arxiv.org/pdf/2112.01810.pdf), [Code](https://github.com/seznam/DaReCzech)) `Seznam` `2021`
+57. [SearchSage: Learning Search Query Representations at Pinterest](https://medium.com/pinterest-engineering/searchsage-learning-search-query-representations-at-pinterest-654f2bb887fc) `Pinterest` `2021`
 
 ## Embeddings
 1. [Vector Representation Of Items, Customer And Cart To Build A Recommendation System](https://arxiv.org/abs/1705.06338) ([Paper](https://arxiv.org/pdf/1705.06338.pdf)) `Sears` `2017`
@@ -309,6 +313,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 26. [Dynaboard: Moving Beyond Accuracy to Holistic Model Evaluation in NLP](https://ai.facebook.com/blog/dynaboard-moving-beyond-accuracy-to-holistic-model-evaluation-in-nlp) ([Code](https://github.com/facebookresearch/dynalab?fbclid=IwAR3qcV7QK2uXm4s4M0XUoQQo4i2DEsDy0LZFKxSQCHhP-3hF6fr2-NDFWX8)) `Facebook`  `2021`
 27. [How we reduced our text similarity runtime by 99.96%](https://medium.com/data-science-at-microsoft/how-we-reduced-our-text-similarity-runtime-by-99-96-e8e4b4426b35) `Microsoft` `2021`
 28. [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/) [(Part 1)](https://arxiv.org/abs/2102.01192) [(Part 2)](https://arxiv.org/abs/2104.00355) [(Part 3)](https://arxiv.org/abs/2109.03264) [(Code and Pretrained Models)](https://github.com/pytorch/fairseq/tree/master/examples/textless_nlp) `Facebook` `2021`
+29. [Grammar Correction as You Type, on Pixel 6](https://ai.googleblog.com/2021/10/grammar-correction-as-you-type-on-pixel.html) `Google` `2021`
 
 ## Sequence Modelling
 1. [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](https://arxiv.org/abs/1511.05942) ([Paper](https://arxiv.org/pdf/1511.05942.pdf)) `Sutter Health` `2015`
@@ -346,6 +351,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 21. [An Efficient Training Approach for Very Large Scale Face Recognition](https://arxiv.org/abs/2105.10375) ([Paper](https://arxiv.org/pdf/2105.10375)) `Alibaba` `2021`
 22. [Identifying Document Types at Scribd](https://tech.scribd.com/blog/2021/identifying-document-types.html) `Scribd` `2021`
 23. [Semi-Supervised Visual Representation Learning for Fashion Compatibility](https://arxiv.org/pdf/2109.08052.pdf) ([Paper](https://arxiv.org/pdf/2109.08052.pdf)) `Walmart` `2021`
+24. [Recognizing People in Photos Through Private On-Device Machine Learning](https://machinelearning.apple.com/research/recognizing-people-photos) `Apple` `2021`
 
 ## Reinforcement Learning
 1. [Deep Reinforcement Learning for Sponsored Search Real-time Bidding](https://arxiv.org/abs/1803.00259) ([Paper](https://arxiv.org/pdf/1803.00259.pdf)) `Alibaba` `2018`
@@ -373,6 +379,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 13. [Fighting fraud with Triplet Loss](https://tech.olx.com/fighting-fraud-with-triplet-loss-86e5f79c7a3e) `OLX Group` `2020`
 14. [Facebook is Now Using AI to Sort Content for Quicker Moderation](https://www.theverge.com/2020/11/13/21562596/facebook-ai-moderation) ([Alternative](https://venturebeat.com/2020/11/13/facebooks-redoubled-ai-efforts-wont-stop-the-spread-of-harmful-content/)) `Facebook` `2020`
 15. How AI is getting better at detecting hate speech [Part 1](https://ai.facebook.com/blog/how-ai-is-getting-better-at-detecting-hate-speech/), [Part 2](https://ai.facebook.com/blog/heres-how-were-using-ai-to-help-detect-misinformation/), [Part 3](https://ai.facebook.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/), [Part 4](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech/) `Facebook` `2020`
+16. [Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop](https://eng.uber.com/project-radar-intelligent-early-fraud-detection/) `Uber` `2022`
 
 ## Graph
 1. [Building The LinkedIn Knowledge Graph](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph) `LinkedIn` `2016`
@@ -396,6 +403,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 5. [Optimization of Passengers Waiting Time in Elevators Using Machine Learning](https://www.youtube.com/watch?v=vXndCC89BCw&t=4s) `Thyssen Krupp AG` `2020`
 6. [Think Out of The Package: Recommending Package Types for E-commerce Shipments](https://www.amazon.science/publications/think-out-of-the-package-recommending-package-types-for-e-commerce-shipments) ([Paper](https://assets.amazon.science/0c/6c/9d0986b94bef92d148f0ac0da1ea/think-out-of-the-package-recommending-package-types-for-e-commerce-shipments.pdf)) `Amazon` `2020`
 7. [Optimizing DoorDash’s Marketing Spend with Machine Learning](https://doordash.engineering/2020/07/31/optimizing-marketing-spend-with-ml/) `DoorDash` `2020`
+8. [Using learning-to-rank to precisely locate where to deliver packages](https://www.amazon.science/blog/using-learning-to-rank-to-precisely-locate-where-to-deliver-packages) ([Paper](https://assets.amazon.science/69/8d/2249945a4e10ba8fc758f7523b0c/getting-your-package-to-the-right-place-supervised-machine-learning-for-geolocation.pdf))`Amazon` `2021`
 
 ## Information Extraction
 1. [Unsupervised Extraction of Attributes and Their Values from Product Description](https://www.aclweb.org/anthology/I13-1190/) ([Paper](https://www.aclweb.org/anthology/I13-1190.pdf)) `Rakuten` `2013`
@@ -462,6 +470,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 37. [Designing Experimentation Guardrails](https://medium.com/airbnb-engineering/designing-experimentation-guardrails-ed6a976ec669) `Airbnb` `2021`
 38. [Network Experimentation at Scale](https://research.fb.com/publications/network-experimentation-at-scale/)([Paper](https://arxiv.org/abs/2012.08591)] `Facebook` `2021`
 39. [Universal Holdout Groups at Disney Streaming](https://medium.com/disney-streaming/universal-holdout-groups-at-disney-streaming-2043360def4f) `Disney` `2021`
+40. [Experimentation is a major focus of Data Science across Netflix](https://netflixtechblog.com/experimentation-is-a-major-focus-of-data-science-across-netflix-f67923f8e985) `Netflix` `2022`
 
 ## Model Management
 1. [Operationalizing Machine Learning—Managing Provenance from Raw Data to Predictions](https://vimeo.com/274396495) `Comcast` `2018`
@@ -478,6 +487,9 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 ## Ethics
 1. [Building Inclusive Products Through A/B Testing](https://engineering.linkedin.com/blog/2020/building-inclusive-products-through-a-b-testing) ([Paper](https://arxiv.org/pdf/2002.05819.pdf)) `LinkedIn` `2020`
 2. [LiFT: A Scalable Framework for Measuring Fairness in ML Applications](https://engineering.linkedin.com/blog/2020/lift-addressing-bias-in-large-scale-ai-applications) ([Paper](https://arxiv.org/pdf/2008.07433.pdf)) `LinkedIn` `2020`
+3. [Introducing Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge) `Twitter` `2021`
+3. [Examining algorithmic amplification of political content on Twitter](https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent) `Twitter` `2021`
+3. [A closer look at how LinkedIn integrates fairness into its AI products](https://engineering.linkedin.com/blog/2022/a-closer-look-at-how-linkedin-integrates-fairness-into-its-ai-pr) `LinkedIn` `2022`
 
 ## Infra
 1. [Reengineering Facebook AI’s Deep Learning Platforms for Interoperability](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability) `Facebook` `2020`
@@ -497,6 +509,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 11. ["You Don't Need a Bigger Boat": A Full Data Pipeline Built with Open-Source Tools](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat) ([Paper](https://arxiv.org/abs/2107.07346)) `Coveo` `2021`
 12. [MLOps at GreenSteam: Shipping Machine Learning](https://neptune.ai/blog/mlops-at-greensteam-shipping-machine-learning-case-study) `GreenSteam` `2021`
 13. [Evolving Reddit’s ML Model Deployment and Serving Architecture](https://www.reddit.com/r/RedditEng/comments/q14tsw/evolving_reddits_ml_model_deployment_and_serving/) `Reddit` `2021`
+14. [Redesigning Etsy’s Machine Learning Platform](https://www.etsy.com/codeascraft/redesigning-etsys-machine-learning-platform/) `Etsy` `2021`
+15. [Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2) `Airbnb` `2022`
 14. [DARWIN: Data Science and Artificial Intelligence Workbench at LinkedIn](https://engineering.linkedin.com/blog/2022/darwin--data-science-and-artificial-intelligence-workbench-at-li) `LinkedIn` `2022`
 
 ## Practices
@@ -524,6 +538,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 4. [Cultivating Algorithms: How We Grow Data Science at Stitch Fix](https://cultivating-algos.stitchfix.com) `Stitch Fix`
 5. [Analytics at Netflix: Who We Are and What We Do](https://netflixtechblog.com/analytics-at-netflix-who-we-are-and-what-we-do-7d9c08fe6965) `Netflix` `2020`
 6. [Building a Data Team at a Mid-stage Startup: A Short Story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) `Erikbern` `2021`
+7. [A Behind-the-Scenes Look at How Postman’s Data Team Works](https://entrepreneurshandbook.co/a-behind-the-scenes-look-at-how-postmans-data-team-works-fded0b8bfc64) `Postman` `2021`
 
 ## Fails
 1. [When It Comes to Gorillas, Google Photos Remains Blind](https://www.wired.com/story/when-it-comes-to-gorillas-google-photos-remains-blind/) `Google` `2010`
