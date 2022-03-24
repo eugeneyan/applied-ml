@@ -366,6 +366,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 6. [Productionizing Deep Reinforcement Learning with Spark and MLflow](https://databricks.com/session_na20/productionizing-deep-reinforcement-learning-with-spark-and-mlflow) `Zynga` `2020`
 7. [Deep Reinforcement Learning in Production Part1](https://towardsdatascience.com/deep-reinforcement-learning-in-production-7e1e63471e2) [Part 2](https://towardsdatascience.com/deep-reinforcement-learning-in-production-part-2-personalizing-user-notifications-812a68ce2355) `Zynga` `2020`
 8. [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/) `Denny Britz` `2020`
+9. [Shifting Consumption towards Diverse content via Reinforcement Learning](https://research.atspotify.com/shifting-consumption-towards-diverse-content-via-reinforcement-learning/) ([Paper](https://dl.acm.org/doi/10.1145/3437963.3441775)) `Spotify` `2022`
 
 ## Anomaly Detection
 1. [Detecting Performance Anomalies in External Firmware Deployments](https://netflixtechblog.com/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46) `Netflix` `2019`
