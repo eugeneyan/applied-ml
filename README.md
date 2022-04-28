@@ -105,6 +105,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 15. [Optimal Feature Discovery: Better, Leaner Machine Learning Models Through Information Theory](https://eng.uber.com/optimal-feature-discovery-ml/) `Uber` `2021`
 16. [ML Feature Serving Infrastructure at Lyft](https://eng.lyft.com/ml-feature-serving-infrastructure-at-lyft-d30bf2d3c32a) `Lyft` `2021`
 17. [Near real-time features for near real-time personalization](https://engineering.linkedin.com/blog/2022/near-real-time-features-for-near-real-time-personalization) `LinkedIn` `2022`
+18. [Building the Model Behind DoorDash’s Expansive Merchant Selection](https://doordash.engineering/2022/04/19/building-merchant-selection/) `DoorDash` `2022`
 
 
 ## Classification
@@ -481,6 +482,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 40. [Experimentation is a major focus of Data Science across Netflix](https://netflixtechblog.com/experimentation-is-a-major-focus-of-data-science-across-netflix-f67923f8e985) `Netflix` `2022`
 41. [Search Journey Towards Better Experimentation Practices](https://engineering.atspotify.com/2022/02/search-journey-towards-better-experimentation-practices/) `Spotify` `2022`
 42. [Artificial Counterfactual Estimation: Machine Learning-Based Causal Inference at Airbnb](https://medium.com/airbnb-engineering/artificial-counterfactual-estimation-ace-machine-learning-based-causal-inference-at-airbnb-ee32ee4d0512) `Airbnb` `2022`
+43. [Challenges in Experimentation](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4) `Lyft` `2022`
+44. [Overtracking and trigger analysis: reducing sample sizes while INCREASING the sensitivity of experiments](https://booking.ai/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) `Booking` `2022`
 
 ## Model Management
 1. [Operationalizing Machine Learning—Managing Provenance from Raw Data to Predictions](https://vimeo.com/274396495) `Comcast` `2018`
@@ -523,8 +526,9 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 15. [Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2) `Airbnb` `2022`
 14. [DARWIN: Data Science and Artificial Intelligence Workbench at LinkedIn](https://engineering.linkedin.com/blog/2022/darwin--data-science-and-artificial-intelligence-workbench-at-li) `LinkedIn` `2022`
 15. [The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopify.engineering/merlin-shopify-machine-learning-platform) `Shopify` `2022`
-16. [Inside Meta's AI optimization platform for engineers across the company](https://ai.facebook.com/blog/looper-meta-ai-optimization-platform-for-engineers/) ([Paper](https://arxiv.org/pdf/2110.07554.pdf)) `Meta` `2022`
-16. [Monzo’s machine learning stack](https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack) `Monzo` `2022`
+16. [Zalando's Machine Learning Platform](https://engineering.zalando.com/posts/2022/04/zalando-machine-learning-platform.html) `Zalando` `2022`
+17. [Inside Meta's AI optimization platform for engineers across the company](https://ai.facebook.com/blog/looper-meta-ai-optimization-platform-for-engineers/) ([Paper](https://arxiv.org/pdf/2110.07554.pdf)) `Meta` `2022`
+18. [Monzo’s machine learning stack](https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack) `Monzo` `2022`
 
 ## Practices
 1. [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533) ([Paper](https://arxiv.org/pdf/1206.5533.pdf)) `Yoshua Bengio` `2012`
