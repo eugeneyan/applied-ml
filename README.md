@@ -556,6 +556,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 5. [Analytics at Netflix: Who We Are and What We Do](https://netflixtechblog.com/analytics-at-netflix-who-we-are-and-what-we-do-7d9c08fe6965) `Netflix` `2020`
 6. [Building a Data Team at a Mid-stage Startup: A Short Story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) `Erikbern` `2021`
 7. [A Behind-the-Scenes Look at How Postman’s Data Team Works](https://entrepreneurshandbook.co/a-behind-the-scenes-look-at-how-postmans-data-team-works-fded0b8bfc64) `Postman` `2021`
+8. [Data Scientist x Machine Learning Engineer Roles: How are they different? How are they alike?](https://building.nubank.com.br/data-scientist-x-machine-learning-engineer-roles-how-are-they-different-how-are-they-alike/) `Nubank` `2022`
 
 ## Fails
 1. [When It Comes to Gorillas, Google Photos Remains Blind](https://www.wired.com/story/when-it-comes-to-gorillas-google-photos-remains-blind/) `Google` `2010`
