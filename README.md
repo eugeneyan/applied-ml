@@ -483,7 +483,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 41. [Search Journey Towards Better Experimentation Practices](https://engineering.atspotify.com/2022/02/search-journey-towards-better-experimentation-practices/) `Spotify` `2022`
 42. [Artificial Counterfactual Estimation: Machine Learning-Based Causal Inference at Airbnb](https://medium.com/airbnb-engineering/artificial-counterfactual-estimation-ace-machine-learning-based-causal-inference-at-airbnb-ee32ee4d0512) `Airbnb` `2022`
 43. [Challenges in Experimentation](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4) `Lyft` `2022`
-44. [Overtracking and trigger analysis: reducing sample sizes while INCREASING the sensitivity of experiments](https://booking.ai/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) `Booking` `2022`
+44. [Overtracking and Trigger Analysis: Reducing sample sizes while INCREASING sensitivity](https://booking.ai/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) `Booking` `2022`
+45. [Meet Dash-AB — The Statistics Engine of Experimentation at DoorDash](https://doordash.engineering/2022/05/24/meet-dash-ab-the-statistics-engine-of-experimentation-at-doordash/) `DoorDash` `2022`
 
 ## Model Management
 1. [Operationalizing Machine Learning—Managing Provenance from Raw Data to Predictions](https://vimeo.com/274396495) `Comcast` `2018`
