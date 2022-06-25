@@ -358,6 +358,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 22. [Identifying Document Types at Scribd](https://tech.scribd.com/blog/2021/identifying-document-types.html) `Scribd` `2021`
 23. [Semi-Supervised Visual Representation Learning for Fashion Compatibility](https://arxiv.org/pdf/2109.08052.pdf) ([Paper](https://arxiv.org/pdf/2109.08052.pdf)) `Walmart` `2021`
 24. [Recognizing People in Photos Through Private On-Device Machine Learning](https://machinelearning.apple.com/research/recognizing-people-photos) `Apple` `2021`
+25. [DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection](https://arxiv.org/pdf/2203.08195.pdf)`Google` `2022`
 
 ## Reinforcement Learning
 1. [Deep Reinforcement Learning for Sponsored Search Real-time Bidding](https://arxiv.org/abs/1803.00259) ([Paper](https://arxiv.org/pdf/1803.00259.pdf)) `Alibaba` `2018`
