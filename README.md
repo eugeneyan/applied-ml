@@ -69,6 +69,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 10. [Functions & DAGs: introducing Hamilton, a microframework for dataframe generation](https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/) `Stitch Fix` `2021`
 11. [Optimizing Pinterest’s Data Ingestion Stack: Findings and Learnings](https://medium.com/@Pinterest_Engineering/optimizing-pinterests-data-ingestion-stack-findings-and-learnings-994fddb063bf) `Pinterest` `2022`
 12. [Lessons Learned From Running Apache Airflow at Scale](https://shopifyengineering.myshopify.com/blogs/engineering/lessons-learned-apache-airflow-scale) `Shopify` `2022`
+13. [Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training](https://arxiv.org/abs/2108.09373v4) `Meta` `2022`
 
 ## Data Discovery
 1. [Apache Atlas: Data Goverance and Metadata Framework for Hadoop](https://atlas.apache.org/#/) ([Code](https://github.com/apache/atlas)) `Apache`
@@ -220,6 +221,10 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 65. [The Amazon Music conversational recommender is hitting the right notes](https://www.amazon.science/latest-news/how-amazon-music-uses-recommendation-system-machine-learning) `Amazon` `2022`
 66. [Personalized complementary product recommendation](https://www.amazon.science/publications/personalized-complementary-product-recommendation) ([Paper](https://assets.amazon.science/6c/d9/a0ec3eda4f0fb4312ce0ada41771/personalized-complementary-product-recommendation.pdf)) `Amazon` `2022`
 67. [Building a Deep Learning Based Retrieval System for Personalized Recommendations](https://tech.ebayinc.com/engineering/building-a-deep-learning-based-retrieval-system-for-personalized-recommendations/) `eBay` `2022`
+68. [How We Built: An Early-Stage Machine Learning Model for Recommendations](https://www.onepeloton.com/press/articles/how-we-built-machine-learning) `Peloton` `2022`
+69. [Beyond Matrix Factorization: Using hybrid features for user-business recommendations](https://engineeringblog.yelp.com/2022/04/beyond-matrix-factorization-using-hybrid-features-for-user-business-recommendations.html) `Yelp` `2022`
+70. [Improving job matching with machine-learned activity features](https://engineering.linkedin.com/blog/2022/improving-job-matching-with-machine-learned-activity-features-) `LinkedIn` `2022`
+71. [Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training](https://arxiv.org/abs/2108.09373v4) `Meta` `2022`
 
 ## Search & Ranking
 1. [Amazon Search: The Joy of Ranking Products](https://www.amazon.science/publications/amazon-search-the-joy-of-ranking-products) ([Paper](https://assets.amazon.science/89/cd/34289f1f4d25b5857d776bdf04d5/amazon-search-the-joy-of-ranking-products.pdf), [Video](https://www.youtube.com/watch?v=NLrhmn-EZ88), [Code](https://github.com/dariasor/TreeExtra)) `Amazon` `2016`
@@ -279,6 +284,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 55. [Deep Natural Language Processing for LinkedIn Search Systems](https://arxiv.org/abs/2108.08252) ([Paper](https://arxiv.org/pdf/2108.08252.pdf)) `LinkedIn` `2021`
 56. [Siamese BERT-based Model for Web Search Relevance Ranking](https://arxiv.org/abs/2112.01810) ([Paper](https://arxiv.org/pdf/2112.01810.pdf), [Code](https://github.com/seznam/DaReCzech)) `Seznam` `2021`
 57. [SearchSage: Learning Search Query Representations at Pinterest](https://medium.com/pinterest-engineering/searchsage-learning-search-query-representations-at-pinterest-654f2bb887fc) `Pinterest` `2021`
+58. [3 Changes to Expand DoorDash’s Product Search Beyond Delivery](https://doordash.engineering/2022/05/10/3-changes-to-expand-doordashs-product-search/) `DoorDash` `2022`
 
 ## Embeddings
 1. [Vector Representation Of Items, Customer And Cart To Build A Recommendation System](https://arxiv.org/abs/1705.06338) ([Paper](https://arxiv.org/pdf/1705.06338.pdf)) `Sears` `2017`
