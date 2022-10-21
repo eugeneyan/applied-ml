@@ -228,7 +228,6 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 71. [Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training](https://arxiv.org/abs/2108.09373v4) `Meta` `2022`
 72. [Homepage Recommendation with Exploitation and Exploration](https://doordash.engineering/2022/10/05/homepage-recommendation-with-exploitation-and-exploration/) `DoorDash` `2022`
 
-
 ## Search & Ranking
 1. [Amazon Search: The Joy of Ranking Products](https://www.amazon.science/publications/amazon-search-the-joy-of-ranking-products) ([Paper](https://assets.amazon.science/89/cd/34289f1f4d25b5857d776bdf04d5/amazon-search-the-joy-of-ranking-products.pdf), [Video](https://www.youtube.com/watch?v=NLrhmn-EZ88), [Code](https://github.com/dariasor/TreeExtra)) `Amazon` `2016`
 2. [How Lazada Ranks Products to Improve Customer Experience and Conversion](https://www.slideshare.net/eugeneyan/how-lazada-ranks-products-to-improve-customer-experience-and-conversion) `Lazada` `2016`
