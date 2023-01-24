@@ -111,6 +111,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 18. [Building the Model Behind DoorDash’s Expansive Merchant Selection](https://doordash.engineering/2022/04/19/building-merchant-selection/) `DoorDash` `2022`
 19. [Open sourcing Feathr – LinkedIn’s feature store for productive machine learning](https://engineering.linkedin.com/blog/2022/open-sourcing-feathr---linkedin-s-feature-store-for-productive-m) `LinkedIn` `2022`
 20. [Developing scalable feature engineering DAGs](https://outerbounds.com/blog/developing-scalable-feature-engineering-dags) `Metaflow + Hamilton` via `Outerbounds` `2022`
+21. [Feature Store Design at Constructor](https://medium.com/constructor-engineering/feature-store-design-at-constructor-330b65f64b18) `Constructor.io` `2023`
 
 
 ## Classification
