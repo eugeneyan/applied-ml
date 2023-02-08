@@ -66,7 +66,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 6. [Zipline - A Declarative Feature Engineering Framework](https://www.youtube.com/watch?v=LjcKCm0G_OY) `Airbnb` `2020`
 7. [Automating Data Protection at Scale, Part 1](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-1-c74909328e08) ([Part 2](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-2-c2b8d2068216)) `Airbnb` `2021`
 8. [Real-time Data Infrastructure at Uber](https://arxiv.org/pdf/2104.00087.pdf) `Uber` `2021`
-9. [Introducing Fabricator: A Declarative Feature Engineering Framework](https://doordash.engineering/2022/01/11/introducing-fabricator-a-declarative-feature-engineering-framework/) `Doordash` `2022`
+9. [Introducing Fabricator: A Declarative Feature Engineering Framework](https://doordash.engineering/2022/01/11/introducing-fabricator-a-declarative-feature-engineering-framework/) `DoorDash` `2022`
 10. [Functions & DAGs: introducing Hamilton, a microframework for dataframe generation](https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/) `Stitch Fix` `2021`
 11. [Optimizing Pinterest’s Data Ingestion Stack: Findings and Learnings](https://medium.com/@Pinterest_Engineering/optimizing-pinterests-data-ingestion-stack-findings-and-learnings-994fddb063bf) `Pinterest` `2022`
 12. [Lessons Learned From Running Apache Airflow at Scale](https://shopifyengineering.myshopify.com/blogs/engineering/lessons-learned-apache-airflow-scale) `Shopify` `2022`
@@ -114,6 +114,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 18. [Building the Model Behind DoorDash’s Expansive Merchant Selection](https://doordash.engineering/2022/04/19/building-merchant-selection/) `DoorDash` `2022`
 19. [Open sourcing Feathr – LinkedIn’s feature store for productive machine learning](https://engineering.linkedin.com/blog/2022/open-sourcing-feathr---linkedin-s-feature-store-for-productive-m) `LinkedIn` `2022`
 20. [Evolution of ML Fact Store](https://netflixtechblog.com/evolution-of-ml-fact-store-5941d3231762) `Netflix` `2022`
+20. [Developing scalable feature engineering DAGs](https://outerbounds.com/blog/developing-scalable-feature-engineering-dags) `Metaflow + Hamilton` via `Outerbounds` `2022`
 
 
 ## Classification
@@ -132,7 +133,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 13. [Uncovering Online Delivery Menu Best Practices with Machine Learning](https://doordash.engineering/2020/11/10/uncovering-online-delivery-menu-best-practices-with-machine-learning/) `DoorDash` `2020`
 14. [Using a Human-in-the-Loop to Overcome the Cold Start Problem in Menu Item Tagging](https://doordash.engineering/2020/08/28/overcome-the-cold-start-problem-in-menu-item-tagging/) `DoorDash` `2020`
 15. [Deep Learning: Product Categorization and Shelving](https://medium.com/walmartglobaltech/deep-learning-product-categorization-and-shelving-630571e81e96) `Walmart` `2021`
-16. [Large-scale Item Categorization for e-Commerce](https://dl.acm.org/doi/10.1145/2396761.2396838) ([Paper](https://www.researchgate.net/profile/Jean_David_Ruvini/publication/262270957_Large-scale_item_categorization_for_e-commerce/links/5512dc3d0cf270fd7e33a0d5/Large-scale-item-categorization-for-e-commerce.pdf)) `DianPing`, `eBay` `2021`
+16. [Large-scale Item Categorization for e-Commerce](https://dl.acm.org/doi/10.1145/2396761.2396838) ([Paper](https://www.researchgate.net/profile/Jean_David_Ruvini/publication/262270957_Large-scale_item_categorization_for_e-commerce/links/5512dc3d0cf270fd7e33a0d5/Large-scale-item-categorization-for-e-commerce.pdf)) `DianPing`, `eBay` `2012`
 17. [Semantic Label Representation with an Application on Multimodal Product Categorization](https://medium.com/walmartglobaltech/semantic-label-representation-with-an-application-on-multimodal-product-categorization-63d668b943b7) `Walmart` `2022`
 18. [Building Airbnb Categories with ML and Human-in-the-Loop](https://medium.com/airbnb-engineering/building-airbnb-categories-with-ml-and-human-in-the-loop-e97988e70ebb) `Airbnb` `2022`
 
@@ -219,6 +220,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 54. [How we use AutoML, Multi-task learning and Multi-tower models for Pinterest Ads](https://medium.com/pinterest-engineering/how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads-db966c3dc99e) `Pinterest` `2020`
 55. [Multi-task Learning for Related Products Recommendations at Pinterest](https://medium.com/pinterest-engineering/multi-task-learning-for-related-products-recommendations-at-pinterest-62684f631c12) `Pinterest` `2020`
 56. [Improving the Quality of Recommended Pins with Lightweight Ranking](https://medium.com/pinterest-engineering/improving-the-quality-of-recommended-pins-with-lightweight-ranking-8ff5477b20e3) `Pinterest` `2020`
+57. [Multi-task Learning and Calibration for Utility-based Home Feed Ranking](https://medium.com/pinterest-engineering/multi-task-learning-and-calibration-for-utility-based-home-feed-ranking-64087a7bcbad) `Pinterest` `2020`
 57. [Personalized Cuisine Filter Based on Customer Preference and Local Popularity](https://doordash.engineering/2020/01/27/personalized-cuisine-filter/) `DoorDash` `2020`
 58. [How We Built a Matchmaking Algorithm to Cross-Sell Products](https://www.gojek.io/blog/how-we-built-a-matchmaking-algorithm-to-cross-sell-products) `Gojek` `2020`
 59. [Lessons Learned Addressing Dataset Bias in Model-Based Candidate Generation](https://arxiv.org/abs/2105.09293) ([Paper](https://arxiv.org/pdf/2105.09293.pdf)) `Twitter` `2021`
@@ -241,8 +243,10 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 74. [RecSysOps: Best Practices for Operating a Large-Scale Recommender System](https://netflixtechblog.medium.com/recsysops-best-practices-for-operating-a-large-scale-recommender-system-95bbe195a841) `Netflix` `2022`
 75. [Recommend API: Unified end-to-end machine learning infrastructure to generate recommendations](https://slack.engineering/recommend-api/) `Slack` `2022`
 76. [Evolving DoorDash’s Substitution Recommendations Algorithm](https://doordash.engineering/2022/09/08/evolving-doordashs-substitution-recommendations-algorithm/) `DoorDash` `2022`
-77. [GPU-accelerated ML Inference at Pinterest](https://medium.com/@Pinterest_Engineering/gpu-accelerated-ml-inference-at-pinterest-ad1b6a03a16d) `Pinterest` `2022`
-78. [Addressing Confounding Feature Issue for Causal Recommendation](https://arxiv.org/abs/2205.06532) ([Paper](https://arxiv.org/pdf/2205.06532.pdf)) `Tencent` `2022`
+77. [Homepage Recommendation with Exploitation and Exploration](https://doordash.engineering/2022/10/05/homepage-recommendation-with-exploitation-and-exploration/) `DoorDash` `2022`
+78. [GPU-accelerated ML Inference at Pinterest](https://medium.com/@Pinterest_Engineering/gpu-accelerated-ml-inference-at-pinterest-ad1b6a03a16d) `Pinterest` `2022`
+79. [Addressing Confounding Feature Issue for Causal Recommendation](https://arxiv.org/abs/2205.06532) ([Paper](https://arxiv.org/pdf/2205.06532.pdf)) `Tencent` `2022`
+
 
 ## Search & Ranking
 1. [Amazon Search: The Joy of Ranking Products](https://www.amazon.science/publications/amazon-search-the-joy-of-ranking-products) ([Paper](https://assets.amazon.science/89/cd/34289f1f4d25b5857d776bdf04d5/amazon-search-the-joy-of-ranking-products.pdf), [Video](https://www.youtube.com/watch?v=NLrhmn-EZ88), [Code](https://github.com/dariasor/TreeExtra)) `Amazon` `2016`
@@ -592,6 +596,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 25. [Didact AI: The anatomy of an ML-powered stock picking engine](https://principiamundi.com/posts/didact-anatomy/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_407/) `Didact AI` `2022`
 26. [Deployment for Free - A Machine Learning Platform for Stitch Fix's Data Scientists](https://multithreaded.stitchfix.com/blog/2022/07/14/deployment-for-free/) `Stitch Fix` `2022`
 
+
 ## Practices
 1. [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533) ([Paper](https://arxiv.org/pdf/1206.5533.pdf)) `Yoshua Bengio` `2012`
 2. [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/) ([Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)) ([Paper](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)) `Google` `2014`
@@ -610,8 +615,11 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 15. [Our approach to building transparent and explainable AI systems](https://engineering.linkedin.com/blog/2021/transparent-and-explainable-AI-systems) `LinkedIn` `2021`
 16. [5 Steps for Building Machine Learning Models for Business](https://shopify.engineering/building-business-machine-learning-models) `Shopify` `2021`
 17. [Data Is An Art, Not Just A Science—And Storytelling Is The Key](https://shopifyengineering.myshopify.com/blogs/engineering/data-storytelling-shopify) `Shopify` `2022`
-18. [RecSysOps: Best Practices for Operating a Large-Scale Recommender System](https://netflixtechblog.medium.com/recsysops-best-practices-for-operating-a-large-scale-recommender-system-95bbe195a841) `Netflix` `2022`
-19. [ML Education at Uber: Frameworks Inspired by Engineering Principles](https://www.uber.com/en-PL/blog/ml-education-at-uber/) `Uber` `2022`
+18. [Best Practices for Real-time Machine Learning: Alerting](https://building.nubank.com.br/best-practices-for-real-time-machine-learning-alerting/) `Nubank` `2022`
+19. [Automatic Retraining for Machine Learning Models: Tips and Lessons Learned](https://building.nubank.com.br/automatic-retraining-for-machine-learning-models/) `Nubank` `2022`
+20. [RecSysOps: Best Practices for Operating a Large-Scale Recommender System](https://netflixtechblog.medium.com/recsysops-best-practices-for-operating-a-large-scale-recommender-system-95bbe195a841) `Netflix` `2022`
+21. [ML Education at Uber: Frameworks Inspired by Engineering Principles](https://www.uber.com/en-PL/blog/ml-education-at-uber/) `Uber` `2022`
+
 
 ## Team structure
 1. [What is the most effective way to structure a data science team?](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) `Udemy` `2017`
