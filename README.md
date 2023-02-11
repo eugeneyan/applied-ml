@@ -546,7 +546,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 47. [Comparing quantiles at scale in online A/B-testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing) `Spotify` `2022`
 48. [Accelerating our A/B experiments with machine learning](https://dropbox.tech/machine-learning/accelerating-our-a-b-experiments-with-machine-learning-xr) `Dropbox` `2023`
 49. [Supercharging A/B Testing at Uber](https://www.uber.com/blog/supercharging-a-b-testing-at-uber/) `Uber` 
-50. [How to test ML models? Metamorphic testing (article and code)](https://www.giskard.ai/knowledge/how-to-test-ml-models-4-metamorphic-testing) `Giskard` 
+50. [How to test ML models? Metamorphic testing (article and code)](https://www.giskard.ai/knowledge/how-to-test-ml-models-4-metamorphic-testing) `Giskard` `2022`
 
 ## Model Management
 1. [Operationalizing Machine Learning—Managing Provenance from Raw Data to Predictions](https://vimeo.com/274396495) `Comcast` `2018`
