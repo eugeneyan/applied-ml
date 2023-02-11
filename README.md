@@ -56,6 +56,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 6. [Data Validation for Machine Learning](https://research.google/pubs/pub47967/) ([Paper](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)) `Google` `2019`
 6. [An Approach to Data Quality for Netflix Personalization Systems](https://www.youtube.com/watch?v=t7vHpA39TXM) `Netflix` `2020`
 7. [Improving Accuracy By Certainty Estimation of Human Decisions, Labels, and Raters](https://research.fb.com/blog/2020/08/improving-the-accuracy-of-community-standards-enforcement-by-certainty-estimation-of-human-decisions/) ([Paper](https://research.fb.com/wp-content/uploads/2020/08/CLARA-Confidence-of-Labels-and-Raters.pdf)) `Facebook` `2020`
+8. [How to test categorical data drift](https://www.giskard.ai/knowledge/how-to-test-ml-models-2-n-categorical-data-drift) `Giskard` `2022`
 
 ## Data Engineering
 1. [Zipline: Airbnb’s Machine Learning Data Management Platform](https://databricks.com/session/zipline-airbnbs-machine-learning-data-management-platform) `Airbnb` `2018`
