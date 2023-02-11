@@ -643,6 +643,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 4. [It's Hard to Generate Neural Text From GPT-3 About Muslims](https://twitter.com/abidlabs/status/1291165311329341440) `OpenAI` `2020`
 5. [A British AI Tool to Predict Violent Crime Is Too Flawed to Use](https://www.wired.co.uk/article/police-violence-prediction-ndas) `United Kingdom` `2020`
 6. More in [awful-ai](https://github.com/daviddao/awful-ai)
+7. [AI Incident Database](https://incidentdatabase.ai/) `Partnership on AI` `2022`
 
 <br>
 
