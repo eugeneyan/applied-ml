@@ -599,7 +599,12 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 24. [Serving Machine Learning Models Efficiently at Scale at Zillow](https://www.zillow.com/tech/serving-machine-learning-models-efficiently-at-scale-at-zillow/) `Zillow` `2022`
 25. [Didact AI: The anatomy of an ML-powered stock picking engine](https://principiamundi.com/posts/didact-anatomy/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_407/) `Didact AI` `2022`
 26. [Deployment for Free - A Machine Learning Platform for Stitch Fix's Data Scientists](https://multithreaded.stitchfix.com/blog/2022/07/14/deployment-for-free/) `Stitch Fix` `2022`
-
+27. [MLOps (definition, overview and architecture) ](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf) 
+28. [Machine Learning in Production: A Case Study) ](https://arxiv.org/abs/2108.09373)
+29. [MLOps: A Holistic Approach  ](https://blog.infocruncher.com/resources/ml-productionisation/MLOps%20-%20A%20Holistic%20Approach%20(wandb,%202022).pdf)
+30.  [𝘼𝙜𝙞𝙡𝙞𝙩𝙮 𝙞𝙣 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 2.0 – 𝙉𝙤𝙩𝙚𝙗𝙤𝙤𝙠 𝙄𝙣𝙩𝙚𝙧𝙛𝙖𝙘𝙚𝙨 𝙖𝙣𝙙 𝙈𝙇𝙊𝙥𝙨 𝙬𝙞𝙩𝙝 𝘽𝙪𝙩𝙩𝙧𝙚𝙨𝙨𝙚𝙨 𝙖𝙣𝙙 𝙍𝙚𝙗𝙖𝙧𝙨 ](https://arxiv.org/pdf/2111.14142.pdf)
+31. [𝙍𝙚𝙦𝙪𝙞𝙧𝙚𝙢𝙚𝙣𝙩𝙨 𝙖𝙣𝙙 𝙍𝙚𝙛𝙚𝙧𝙚𝙣𝙘𝙚 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 𝙛𝙤𝙧 𝙈𝙇𝙊𝙥𝙨: 𝙄𝙣𝙨𝙞𝙜𝙝𝙩𝙨 𝙛𝙧𝙤𝙢 𝙄𝙣𝙙𝙪𝙨𝙩𝙧𝙮 (https://www.techrxiv.org/articles/preprint/Requirements_and_Reference_Architecture_for_MLOps_Insights_from_Industry/21397413)
+32.
 
 ## Practices
 1. [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533) ([Paper](https://arxiv.org/pdf/1206.5533.pdf)) `Yoshua Bengio` `2012`
