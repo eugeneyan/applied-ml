@@ -602,9 +602,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 25. [Didact AI: The anatomy of an ML-powered stock picking engine](https://principiamundi.com/posts/didact-anatomy/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_407/) `Didact AI` `2022`
 26. [Deployment for Free - A Machine Learning Platform for Stitch Fix's Data Scientists](https://multithreaded.stitchfix.com/blog/2022/07/14/deployment-for-free/) `Stitch Fix` `2022`
 27. [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302) ([Paper](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)) `IBM` `2022`
-28. [MLOps Best Practices for Data Scientists](https://towardsdatascience.com/mlops-practices-for-data-scientists-dbb01be45dd8)`Meduim` `2021`
-29. [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/) ([Paper](https://static.googleusercontent.com/media/research.google.com/cs//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)) `Google` `2017`
-30. [hidden technical debt in machine learning systems](https://arxiv.org/abs/2103.10510) ([Paper](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)) `Google` `2015`
+28. [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/) ([Paper](https://static.googleusercontent.com/media/research.google.com/cs//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)) `Google` `2017`
+29. [hidden technical debt in machine learning systems](https://arxiv.org/abs/2103.10510) ([Paper](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)) `Google` `2015`
 ## Practices
 1. [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533) ([Paper](https://arxiv.org/pdf/1206.5533.pdf)) `Yoshua Bengio` `2012`
 2. [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/) ([Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)) ([Paper](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)) `Google` `2014`
@@ -627,7 +626,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 19. [Automatic Retraining for Machine Learning Models: Tips and Lessons Learned](https://building.nubank.com.br/automatic-retraining-for-machine-learning-models/) `Nubank` `2022`
 20. [RecSysOps: Best Practices for Operating a Large-Scale Recommender System](https://netflixtechblog.medium.com/recsysops-best-practices-for-operating-a-large-scale-recommender-system-95bbe195a841) `Netflix` `2022`
 21. [ML Education at Uber: Frameworks Inspired by Engineering Principles](https://www.uber.com/en-PL/blog/ml-education-at-uber/) `Uber` `2022`
-
+22. [MLOps Best Practices for Data Scientists](https://towardsdatascience.com/mlops-practices-for-data-scientists-dbb01be45dd8)`Meduim` `2021`
 
 ## Team structure
 1. [What is the most effective way to structure a data science team?](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) `Udemy` `2017`
