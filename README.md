@@ -232,6 +232,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 64. [On YouTube's Recommendation System](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/) `YouTube` `2021`
 65. ["Are you sure?": Preliminary Insights from Scaling Product Comparisons to Multiple Shops](https://arxiv.org/abs/2107.03256) `Coveo` `2021`
 66. [Mozrt, a Deep Learning Recommendation System Empowering Walmart Store Associates](https://medium.com/walmartglobaltech/mozrt-a-deep-learning-recommendation-system-empowering-walmart-store-associates-with-a-5d42c08d88da) `Walmart` `2021`
+67. [Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training](https://arxiv.org/abs/2108.09373) ([Paper](https://arxiv.org/pdf/2108.09373.pdf)) `Meta` `2021`
 67. [The Amazon Music conversational recommender is hitting the right notes](https://www.amazon.science/latest-news/how-amazon-music-uses-recommendation-system-machine-learning) `Amazon` `2022`
 68. [Personalized complementary product recommendation](https://www.amazon.science/publications/personalized-complementary-product-recommendation) ([Paper](https://assets.amazon.science/6c/d9/a0ec3eda4f0fb4312ce0ada41771/personalized-complementary-product-recommendation.pdf)) `Amazon` `2022`
 69. [Building a Deep Learning Based Retrieval System for Personalized Recommendations](https://tech.ebayinc.com/engineering/building-a-deep-learning-based-retrieval-system-for-personalized-recommendations/) `eBay` `2022`
@@ -587,6 +588,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 12. [MLOps at GreenSteam: Shipping Machine Learning](https://neptune.ai/blog/mlops-at-greensteam-shipping-machine-learning-case-study) `GreenSteam` `2021`
 13. [Evolving Reddit’s ML Model Deployment and Serving Architecture](https://www.reddit.com/r/RedditEng/comments/q14tsw/evolving_reddits_ml_model_deployment_and_serving/) `Reddit` `2021`
 14. [Redesigning Etsy’s Machine Learning Platform](https://www.etsy.com/codeascraft/redesigning-etsys-machine-learning-platform/) `Etsy` `2021`
+15. [Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training](https://arxiv.org/abs/2108.09373) ([Paper](https://arxiv.org/pdf/2108.09373.pdf)) `Meta` `2021`
 15. [Building a Platform for Serving Recommendations at Etsy](https://www.etsy.com/codeascraft/building-a-platform-for-serving-recommendations-at-etsy) `Etsy` `2022` 
 16. [Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2) `Airbnb` `2022`
 17. [DARWIN: Data Science and Artificial Intelligence Workbench at LinkedIn](https://engineering.linkedin.com/blog/2022/darwin--data-science-and-artificial-intelligence-workbench-at-li) `LinkedIn` `2022`
@@ -599,12 +601,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 24. [Serving Machine Learning Models Efficiently at Scale at Zillow](https://www.zillow.com/tech/serving-machine-learning-models-efficiently-at-scale-at-zillow/) `Zillow` `2022`
 25. [Didact AI: The anatomy of an ML-powered stock picking engine](https://principiamundi.com/posts/didact-anatomy/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_407/) `Didact AI` `2022`
 26. [Deployment for Free - A Machine Learning Platform for Stitch Fix's Data Scientists](https://multithreaded.stitchfix.com/blog/2022/07/14/deployment-for-free/) `Stitch Fix` `2022`
-27. [MLOps (definition, overview and architecture) ](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf) 
-28. [Machine Learning in Production: A Case Study) ](https://arxiv.org/abs/2108.09373)
-29. [MLOps: A Holistic Approach  ](https://blog.infocruncher.com/resources/ml-productionisation/MLOps%20-%20A%20Holistic%20Approach%20(wandb,%202022).pdf)
-30.  [𝘼𝙜𝙞𝙡𝙞𝙩𝙮 𝙞𝙣 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 2.0 – 𝙉𝙤𝙩𝙚𝙗𝙤𝙤𝙠 𝙄𝙣𝙩𝙚𝙧𝙛𝙖𝙘𝙚𝙨 𝙖𝙣𝙙 𝙈𝙇𝙊𝙥𝙨 𝙬𝙞𝙩𝙝 𝘽𝙪𝙩𝙩𝙧𝙚𝙨𝙨𝙚𝙨 𝙖𝙣𝙙 𝙍𝙚𝙗𝙖𝙧𝙨 ](https://arxiv.org/pdf/2111.14142.pdf)
-31. [𝙍𝙚𝙦𝙪𝙞𝙧𝙚𝙢𝙚𝙣𝙩𝙨 𝙖𝙣𝙙 𝙍𝙚𝙛𝙚𝙧𝙚𝙣𝙘𝙚 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 𝙛𝙤𝙧 𝙈𝙇𝙊𝙥𝙨: 𝙄𝙣𝙨𝙞𝙜𝙝𝙩𝙨 𝙛𝙧𝙤𝙢 𝙄𝙣𝙙𝙪𝙨𝙩𝙧𝙮 (https://www.techrxiv.org/articles/preprint/Requirements_and_Reference_Architecture_for_MLOps_Insights_from_Industry/21397413)
-32.
+27. [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302) ([Paper](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)) `IBM` `2022`
 
 ## Practices
 1. [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533) ([Paper](https://arxiv.org/pdf/1206.5533.pdf)) `Yoshua Bengio` `2012`
