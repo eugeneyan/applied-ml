@@ -144,6 +144,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 2. [Using Machine Learning to Predict the Value of Ad Requests](https://blog.twitter.com/engineering/en_us/topics/insights/2020/using-machine-learning-to-predict-the-value-of-ad-requests.html) `Twitter` `2020`
 3. [Open-Sourcing Riskquant, a Library for Quantifying Risk](https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968) ([Code](https://github.com/Netflix-Skunkworks/riskquant)) `Netflix` `2020`
 4. [Solving for Unobserved Data in a Regression Model Using a Simple Data Adjustment](https://doordash.engineering/2020/10/14/solving-for-unobserved-data-in-a-regression-model/) `DoorDash` `2020`
+5. [The Ultimate Guide to Regression in Machine Learning](https://nimblebox.ai/blog/regression-machine-learning)
 
 ## Forecasting
 1. [Engineering Extreme Event Forecasting at Uber with RNN](https://eng.uber.com/neural-networks/) `Uber` `2017`
@@ -420,6 +421,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 10. [Bandits for Online Calibration: An Application to Content Moderation on Social Media Platforms](https://arxiv.org/abs/2211.06516) `Meta` `2022`
 11. [How to Optimise Rankings with Cascade Bandits](https://medium.com/expedia-group-tech/how-to-optimise-rankings-with-cascade-bandits-5d92dfa0f16b) `Expedia` `2022`
 12. [Selecting the Best Image for Each Merchant Using Exploration and Machine Learning](https://doordash.engineering/2023/01/04/selecting-the-best-image-for-each-merchant-using-exploration-and-machine-learning/) `DoorDash` `2023`
+13. [ML Model Training: Supervised, Unsupervised & Reinforcement Learning - Part 2](https://nimblebox.ai/blog/supervised-unsupervised-reinforcement-learning)
+14. [Applications of Reinforcement Learning - Real-World Examples](https://nimblebox.ai/blog/reinforcement-learning-applications)
 
 ## Anomaly Detection
 1. [Detecting Performance Anomalies in External Firmware Deployments](https://netflixtechblog.com/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46) `Netflix` `2019`
@@ -445,6 +448,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 21. [Improving the accuracy of our machine learning WAF using data augmentation and sampling](https://blog.cloudflare.com/data-generation-and-sampling-strategies/) `Cloudflare` `2022`
 22. [Machine Learning for Fraud Detection in Streaming Services](https://netflixtechblog.com/machine-learning-for-fraud-detection-in-streaming-services-b0b4ef3be3f6) `Netflix` `2022`
 23. [Pricing at Lyft](https://eng.lyft.com/pricing-at-lyft-8a4022065f8b) `Lyft` `2022`
+24. [Anomaly Detection in Machine Learning](https://nimblebox.ai/blog/anomaly-detection-machine-learning)
 
 ## Graph
 1. [Building The LinkedIn Knowledge Graph](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph) `LinkedIn` `2016`
@@ -637,6 +641,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 6. [Building a Data Team at a Mid-stage Startup: A Short Story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) `Erikbern` `2021`
 7. [A Behind-the-Scenes Look at How Postman’s Data Team Works](https://entrepreneurshandbook.co/a-behind-the-scenes-look-at-how-postmans-data-team-works-fded0b8bfc64) `Postman` `2021`
 8. [Data Scientist x Machine Learning Engineer Roles: How are they different? How are they alike?](https://building.nubank.com.br/data-scientist-x-machine-learning-engineer-roles-how-are-they-different-how-are-they-alike/) `Nubank` `2022`
+9. [A Guide To Setting Up Your MLOps Team](https://nimblebox.ai/blog/mlops-team-structure)
 
 ## Fails
 1. [When It Comes to Gorillas, Google Photos Remains Blind](https://www.wired.com/story/when-it-comes-to-gorillas-google-photos-remains-blind/) `Google` `2018`
