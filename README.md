@@ -605,6 +605,9 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 28. [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/) ([Paper](https://static.googleusercontent.com/media/research.google.com/cs//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)) `Google` `2017`
 29. [hidden technical debt in machine learning systems](https://arxiv.org/abs/2103.10510) ([Paper](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)) `Google` `2015`
 30. [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) ([Blog](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)) `Google` `2021`
+31. [Design Patterns in Machine Learning for MLOps](https://towardsdatascience.com/design-patterns-in-machine-learning-for-mlops-a3f63f745ce4) ([Blog](https://towardsdatascience.com/design-patterns-in-machine-learning-for-mlops-a3f63f745ce4)) `Meduim` `2022`
+32. [Design Patterns in Machine Learning for MLOps](https://scholarworks.calstate.edu/downloads/1v53k296v) ([Blog](https://scholarworks.calstate.edu/downloads/1v53k296v) `thesis` `2020`
+
 ## Practices
 1. [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533) ([Paper](https://arxiv.org/pdf/1206.5533.pdf)) `Yoshua Bengio` `2012`
 2. [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/) ([Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)) ([Paper](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)) `Google` `2014`
