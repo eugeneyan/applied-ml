@@ -37,15 +37,16 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 19. [Weak Supervision](#weak-supervision)
 20. [Generation](#generation)
 21. [Audio](#audio)
-22. [Validation and A/B Testing](#validation-and-ab-testing)
-23. [Model Management](#model-management)
-24. [Efficiency](#efficiency)
-25. [Ethics](#ethics)
-26. [Infra](#infra)
-27. [MLOps Platforms](#mlops-platforms)
-28. [Practices](#practices)
-29. [Team Structure](#team-structure)
-30. [Fails](#fails)
+22. [Privacy-Preserving Machine Learning](#privacy-preserving-machine-learning)
+23. [Validation and A/B Testing](#validation-and-ab-testing)
+24. [Model Management](#model-management)
+25. [Efficiency](#efficiency)
+26. [Ethics](#ethics)
+27. [Infra](#infra)
+28. [MLOps Platforms](#mlops-platforms)
+29. [Practices](#practices)
+30. [Team Structure](#team-structure)
+31. [Fails](#fails)
 
 ## Data Quality
 1. [Reliable and Scalable Data Ingestion at Airbnb](https://www.slideshare.net/HadoopSummit/reliable-and-scalable-data-ingestion-at-airbnb-63920989) `Airbnb` `2016`
@@ -497,6 +498,12 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 ## Audio
 1. [Improving On-Device Speech Recognition with VoiceFilter-Lite](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html) ([Paper](https://arxiv.org/pdf/2009.04323.pdf))`Google` `2020`
 2. [The Machine Learning Behind Hum to Search](https://ai.googleblog.com/2020/11/the-machine-learning-behind-hum-to.html) `Google` `2020`
+
+## Privacy-preserving Machine Learning
+1. [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) ([Paper](https://arxiv.org/pdf/1602.05629)) `Google` `2017`
+2. [Federated Learning with Formal Differential Privacy Guarantees](https://ai.googleblog.com/2022/02/federated-learning-with-formal.html) ([Paper](https://arxiv.org/pdf/2103.00039)) `Google` `2022`
+3. [MPC-based machine learning: Achieving end-to-end privacy-preserving machine learning](https://research.facebook.com/blog/2022/10/mpc-based-machine-learning-achieving-end-to-end-privacy-preserving-machine-learning/) ([Paper](https://research.facebook.com/file/455681589729383/Private-Computation-Framework-2.0-White-Paper.pdf)) `Facebook` `2022`
+
 
 ## Validation and A/B Testing
 1. [Overlapping Experiment Infrastructure: More, Better, Faster Experimentation](https://research.google/pubs/pub36500/) ([Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36500.pdf)) `Google` `2010`
