@@ -16,36 +16,37 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 
 **Table of Contents**
 
-1. [Data Quality](#data-quality)
-2. [Data Engineering](#data-engineering)
-3. [Data Discovery](#data-discovery)
-4. [Feature Stores](#feature-stores)
-5. [Classification](#classification)
-6. [Regression](#regression)
-7. [Forecasting](#forecasting)
-8. [Recommendation](#recommendation)
-9. [Search & Ranking](#search--ranking)
-10. [Embeddings](#embeddings)
-11. [Natural Language Processing](#natural-language-processing)
-12. [Sequence Modelling](#sequence-modelling)
-13. [Computer Vision](#computer-vision)
-14. [Reinforcement Learning](#reinforcement-learning)
-15. [Anomaly Detection](#anomaly-detection)
-16. [Graph](#graph)
-17. [Optimization](#optimization)
-18. [Information Extraction](#information-extraction)
-19. [Weak Supervision](#weak-supervision)
-20. [Generation](#generation)
-21. [Audio](#audio)
-22. [Validation and A/B Testing](#validation-and-ab-testing)
-23. [Model Management](#model-management)
-24. [Efficiency](#efficiency)
-25. [Ethics](#ethics)
-26. [Infra](#infra)
-27. [MLOps Platforms](#mlops-platforms)
-28. [Practices](#practices)
-29. [Team Structure](#team-structure)
-30. [Fails](#fails)
+- [applied-ml](#applied-ml)
+  - [Data Quality](#data-quality)
+  - [Data Engineering](#data-engineering)
+  - [Data Discovery](#data-discovery)
+  - [Feature Stores](#feature-stores)
+  - [Classification](#classification)
+  - [Regression](#regression)
+  - [Forecasting](#forecasting)
+  - [Recommendation](#recommendation)
+  - [Search \& Ranking](#search--ranking)
+  - [Embeddings](#embeddings)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Sequence Modelling](#sequence-modelling)
+  - [Computer Vision](#computer-vision)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Anomaly Detection](#anomaly-detection)
+  - [Graph](#graph)
+  - [Optimization](#optimization)
+  - [Information Extraction](#information-extraction)
+  - [Weak Supervision](#weak-supervision)
+  - [Generation](#generation)
+  - [Audio](#audio)
+  - [Validation and A/B Testing](#validation-and-ab-testing)
+  - [Model Management](#model-management)
+  - [Efficiency](#efficiency)
+  - [Ethics](#ethics)
+  - [Infra](#infra)
+  - [MLOps Platforms](#mlops-platforms)
+  - [Practices](#practices)
+  - [Team structure](#team-structure)
+  - [Fails](#fails)
 
 ## Data Quality
 1. [Reliable and Scalable Data Ingestion at Airbnb](https://www.slideshare.net/HadoopSummit/reliable-and-scalable-data-ingestion-at-airbnb-63920989) `Airbnb` `2016`
@@ -165,7 +166,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 ## Recommendation
 1. [Amazon.com Recommendations: Item-to-Item Collaborative Filtering](https://ieeexplore.ieee.org/document/1167344) ([Paper](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)) `Amazon` `2003`
 2. [Netflix Recommendations: Beyond the 5 stars (Part 1](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429) ([Part 2](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-2-d9b96aa399f5)) `Netflix` `2012`
-3. [How Music Recommendation Works — And Doesn’t Work](https://notes.variogr.am/2012/12/11/how-music-recommendation-works-and-doesnt-work/) `Spotify` `2012`
+3. [How Music Recommendation Works — And Doesn’t Work](https://notes.variogram.com/2012/12/11/how-music-recommendation-works-and-doesnt-work/) `Spotify` `2012`
 4. [Learning to Rank Recommendations with the k -Order Statistic Loss](https://dl.acm.org/doi/10.1145/2507157.2507210) ([Paper](https://dl.acm.org/doi/pdf/10.1145/2507157.2507210)) `Google` `2013`
 5. [Recommending Music on Spotify with Deep Learning](https://benanne.github.io/2014/08/05/spotify-cnns.html) `Spotify` `2014`
 6. [Learning a Personalized Homepage](https://netflixtechblog.com/learning-a-personalized-homepage-aa8ec670359a) `Netflix` `2015`
