@@ -26,7 +26,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 - 8.[Forecasting](#forecasting)
 - 9. [Recommendation](#recommendation)
 - 10.[Search \& Ranking](#search--ranking)
-- 11. [E11mbeddings](#embeddings)
+- 11. [Embeddings](#embeddings)
 - 12.[Natural Language Processing](#natural-language-processing)
 - 13.[Sequence Modelling](#sequence-modelling)
 - 14.[Computer Vision](#computer-vision)
