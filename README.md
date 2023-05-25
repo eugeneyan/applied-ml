@@ -334,6 +334,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 12. [The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/10.1145/3383313.3411477) `Coveo` `2022`
 13. [Embedding-based Retrieval at Scribd](https://tech.scribd.com/blog/2021/embedding-based-retrieval-scribd.html) `Scribd` `2021`
 14. [Multi-objective Hyper-parameter Optimization of Behavioral Song Embeddings](https://arxiv.org/abs/2208.12724) ([Paper](https://arxiv.org/pdf/2208.12724.pdf)) `Apple` `2022`
+15. [Embeddings at Spotify's Scale - How Hard Could It Be?](https://arize.com/resource/embeddings-at-scale-spotify-recsys/) `Spotify` `2023`
 
 ## Natural Language Processing
 1. [Abusive Language Detection in Online User Content](https://dl.acm.org/doi/10.1145/2872427.2883062) ([Paper](http://www.yichang-cs.com/yahoo/WWW16_Abusivedetection.pdf)) `Yahoo` `2016`
@@ -408,6 +409,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 24. [Recognizing People in Photos Through Private On-Device Machine Learning](https://machinelearning.apple.com/research/recognizing-people-photos) `Apple` `2021`
 25. [DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection](https://arxiv.org/pdf/2203.08195.pdf) `Google` `2022`
 26. [Contrastive language and vision learning of general fashion concepts](https://www.nature.com/articles/s41598-022-23052-9) ([Paper](https://www.nature.com/articles/s41598-022-23052-9.pdf))`Coveo` `2022`
+27. [Leveraging Computer Vision for Search Ranking](https://arize.com/resource/bazaarvoice-leveraging-computer-vision-models-for-search-ranking/) `BazaarVoice` `2023`
 
 ## Reinforcement Learning
 1. [Deep Reinforcement Learning for Sponsored Search Real-time Bidding](https://arxiv.org/abs/1803.00259) ([Paper](https://arxiv.org/pdf/1803.00259.pdf)) `Alibaba` `2018`
