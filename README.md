@@ -636,6 +636,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 19. [Automatic Retraining for Machine Learning Models: Tips and Lessons Learned](https://building.nubank.com.br/automatic-retraining-for-machine-learning-models/) `Nubank` `2022`
 20. [RecSysOps: Best Practices for Operating a Large-Scale Recommender System](https://netflixtechblog.medium.com/recsysops-best-practices-for-operating-a-large-scale-recommender-system-95bbe195a841) `Netflix` `2022`
 21. [ML Education at Uber: Frameworks Inspired by Engineering Principles](https://www.uber.com/en-PL/blog/ml-education-at-uber/) `Uber` `2022`
+22. [De-risking Real-time ML Projects: Addressing Common Failure Modes](https://building.nubank.com.br/de-risking-real-time-ml-projects-addressing-common-failure-modes/) `Nubank` `2023`
 
 
 ## Team structure
