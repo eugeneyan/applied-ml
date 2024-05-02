@@ -636,7 +636,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 19. [Automatic Retraining for Machine Learning Models: Tips and Lessons Learned](https://building.nubank.com.br/automatic-retraining-for-machine-learning-models/) `Nubank` `2022`
 20. [RecSysOps: Best Practices for Operating a Large-Scale Recommender System](https://netflixtechblog.medium.com/recsysops-best-practices-for-operating-a-large-scale-recommender-system-95bbe195a841) `Netflix` `2022`
 21. [ML Education at Uber: Frameworks Inspired by Engineering Principles](https://www.uber.com/en-PL/blog/ml-education-at-uber/) `Uber` `2022`
-
+22. [Building and Maintaining Internal Tools for DS/ML teams: Lessons Learned](https://building.nubank.com.br/building-and-maintaining-internal-tools-for-ds-ml-teams-lessons-learned) `Nubank` `2024`
 
 ## Team structure
 1. [What is the most effective way to structure a data science team?](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) `Udemy` `2017`
