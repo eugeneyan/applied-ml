@@ -661,3 +661,5 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 <br>
 
 **P.S., Want a summary of ML advancements?** Get up to speed with survey papers 👉[`ml-surveys`](https://github.com/eugeneyan/ml-surveys)
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. Enterprise-ready, 189 APIs, real energy data.
