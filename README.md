@@ -36,6 +36,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 18. [Information Extraction](#information-extraction)
 19. [Weak Supervision](#weak-supervision)
 20. [Generation](#generation)
+
+- Synthetic tabular data generation using GANs, Diffusion Models, and LLMs — [TabGAN](https://github.com/Diyago/Tabular-data-generation) | [Paper](https://arxiv.org/abs/2010.00638)
 21. [Audio](#audio)
 22. [Privacy-Preserving Machine Learning](#privacy-preserving-machine-learning)
 23. [Validation and A/B Testing](#validation-and-ab-testing)
