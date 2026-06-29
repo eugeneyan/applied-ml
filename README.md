@@ -661,3 +661,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 <br>
 
 **P.S., Want a summary of ML advancements?** Get up to speed with survey papers 👉[`ml-surveys`](https://github.com/eugeneyan/ml-surveys)
+
+## Directories
+
+- [OpenRuna](https://www.openruna.com/hubs/llm-evals) — Curated graph of LLM evals, benchmarks, datasets, and prompts with typed resource relations.
