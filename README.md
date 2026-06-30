@@ -584,6 +584,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 1. [Reengineering Facebook AI’s Deep Learning Platforms for Interoperability](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability) `Facebook` `2020`
 2. [Elastic Distributed Training with XGBoost on Ray](https://eng.uber.com/elastic-xgboost-ray/) `Uber` `2021`
 
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Learned prompt compression for production ML systems. Cuts ~65% of LLM tokens before inference. CPU-only, open source, `pip install supercompress`.
 ## MLOps Platforms
 1. [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) `Uber` `2017`
 2. [Operationalizing Machine Learning—Managing Provenance from Raw Data to Predictions](https://vimeo.com/274396495) `Comcast` `2018`
