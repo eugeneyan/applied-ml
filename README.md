@@ -49,6 +49,8 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 31. [Fails](#fails)
 
 ## Data Quality
+
+- [NEXUS-AI](https://github.com/klikmarkettt-dotcom/nexus-ai) - Autonomous agent marketplace with 20+ crypto skills for AI agents.
 1. [Reliable and Scalable Data Ingestion at Airbnb](https://www.slideshare.net/HadoopSummit/reliable-and-scalable-data-ingestion-at-airbnb-63920989) `Airbnb` `2016`
 2. [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/) `Uber` `2017`
 3. [Data Management Challenges in Production Machine Learning](https://research.google/pubs/pub46178/) ([Paper](https://thodrek.github.io/CS839_spring18/papers/p1723-polyzotis.pdf)) `Google` `2017`
